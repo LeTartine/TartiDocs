@@ -16,7 +16,7 @@ Il tire en appui, je manoeuvre. Il manoeuvre, je tire en appui.
 - **Techniques de communications**:
   - Base procédure radiophonique (minimum): "Destinataire ici Emetteur" - Message
   - Efficacité a la radio: pas de communication superflue, privilégier la voix
-  - SITREP / ACE report: 
+  - [SITREP](./communication/sitrep)
   - Signalement DDRO: Signaler un contact en donnant Direction, Description, Repere, Objectif
 - **Techniques de mouvement collectif**:
   - Tiroir / Perroquet

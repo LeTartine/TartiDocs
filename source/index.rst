@@ -14,4 +14,5 @@ Permettent de facilement s'intégrer au sein d'une unité, de comprendre les com
    :caption: Contents:
 
    essentiels
+   communication/sitrep
 
