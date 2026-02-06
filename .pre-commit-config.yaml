@@ -1,0 +1,9 @@
+repos:
+  - repo: https://github.com/thclark/pre-commit-sphinx
+    rev: 0.0.1
+    hooks:
+      - id: build-docs
+        args: [ '--cache-dir', 'docs/build/.doctrees', '--html-dir', 'docs/build/html', '--source-dir', 'docs/source' ]
+        additional_dependencies:
+          - sphinx
+          - myst_parser
