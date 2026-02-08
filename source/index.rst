@@ -1,8 +1,7 @@
-.. Tac Docs documentation master file, created by
-   sphinx-quickstart on Mon Feb  2 13:33:31 2026.
+TartiDoc - La Documentation Tactique de Tartine
+===============================================
 
-Documentation "Tac"
-===================
+J'aime les FPS, en particulier ceux ou l'action collective, 
 
 Inspiré des **Standard Operating Procedures (SOP)** en anglais, ou Procédure Opératoire Normalisée (PON) en Francais.
 
