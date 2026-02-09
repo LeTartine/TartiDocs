@@ -65,8 +65,9 @@ Le support GitHub permet à tous de contribuer via des `Pull Requests`_.
    essentiels
    concepts/*
    communication/*
-   roles/*
    techniques/*
+   terrain/*
+   roles/*
 
 .. _Squad: https://joinsquad.com
 .. _Bellum: https://playbellum.com
