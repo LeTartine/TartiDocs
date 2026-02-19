@@ -3,7 +3,7 @@
   <head><meta charset="utf-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="color-scheme" content="light dark"><meta name="viewport" content="width=device-width, initial-scale=1" />
-<link rel="index" title="Index" href="../genindex.html"><link rel="search" title="Recherche" href="../search.html">
+<link rel="index" title="Index" href="../genindex.html"><link rel="search" title="Recherche" href="../search.html"><link rel="next" title="Terrain, Carte &amp; Navigation" href="../terrain/index.html"><link rel="prev" title="Gestion du risque fratricide" href="fratricide.html">
 
     <!-- Generated with Sphinx 9.1.0 and Furo 2025.12.19 -->
         <title>Portes - Documentation TartiDoc 0.0.1</title>
@@ -172,7 +172,7 @@
           <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
         </button>
       </div>
-      <label class="toc-overlay-icon toc-header-icon no-toc" for="__toc">
+      <label class="toc-overlay-icon toc-header-icon" for="__toc">
         <span class="icon"><svg><use href="#svg-toc"></use></svg></span>
       </label>
     </div>
@@ -190,7 +190,7 @@
   <input type="hidden" name="area" value="default">
 </form>
 <div id="searchbox"></div><div class="sidebar-scroll"><div class="sidebar-tree">
-  <ul>
+  <ul class="current">
 <li class="toctree-l1"><a class="reference internal" href="../essentiels.html">Essentiels</a></li>
 <li class="toctree-l1 has-children"><a class="reference internal" href="../concepts/index.html">Concepts du combat</a><input aria-label="Toggle navigation of Concepts du combat" class="toctree-checkbox" id="toctree-checkbox-1" name="toctree-checkbox-1" role="switch" type="checkbox"/><label for="toctree-checkbox-1"><span class="icon"><svg><use href="#svg-arrow-right"></use></svg></span></label><ul>
 <li class="toctree-l2"><a class="reference internal" href="../concepts/appui.html">Appuyer</a></li>
@@ -207,9 +207,14 @@
 <li class="toctree-l2"><a class="reference internal" href="../communication/sitrep.html">Situation Report (SITREP)</a></li>
 </ul>
 </li>
-<li class="toctree-l1 has-children"><a class="reference internal" href="index.html">Techniques de combat</a><input aria-label="Toggle navigation of Techniques de combat" class="toctree-checkbox" id="toctree-checkbox-3" name="toctree-checkbox-3" role="switch" type="checkbox"/><label for="toctree-checkbox-3"><span class="icon"><svg><use href="#svg-arrow-right"></use></svg></span></label><ul>
+<li class="toctree-l1 current has-children"><a class="reference internal" href="index.html">Techniques de combat</a><input aria-label="Toggle navigation of Techniques de combat" checked="" class="toctree-checkbox" id="toctree-checkbox-3" name="toctree-checkbox-3" role="switch" type="checkbox"/><label for="toctree-checkbox-3"><span class="icon"><svg><use href="#svg-arrow-right"></use></svg></span></label><ul class="current">
 <li class="toctree-l2"><a class="reference internal" href="360.html">Securite a 360</a></li>
 <li class="toctree-l2"><a class="reference internal" href="fratricide.html">Gestion du risque fratricide</a></li>
+<li class="toctree-l2 current current-page"><a class="current reference internal" href="#">Portes</a></li>
+</ul>
+</li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="../terrain/index.html">Terrain, Carte &amp; Navigation</a><input aria-label="Toggle navigation of Terrain, Carte &amp; Navigation" class="toctree-checkbox" id="toctree-checkbox-4" name="toctree-checkbox-4" role="switch" type="checkbox"/><label for="toctree-checkbox-4"><span class="icon"><svg><use href="#svg-arrow-right"></use></svg></span></label><ul>
+<li class="toctree-l2"><a class="reference internal" href="../terrain/dangers.html">Terrains Dangereux</a></li>
 </ul>
 </li>
 </ul>
@@ -245,14 +250,93 @@
               <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
             </button>
           </div>
-          <label class="toc-overlay-icon toc-content-icon no-toc" for="__toc">
+          <label class="toc-overlay-icon toc-content-icon" for="__toc">
             <span class="icon"><svg><use href="#svg-toc"></use></svg></span>
           </label>
         </div>
         <article role="main" id="furo-main-content">
           <section id="portes">
 <h1>Portes<a class="headerlink" href="#portes" title="Lien vers cette rubrique">¶</a></h1>
-<p>Work In Progress</p>
+<p>La porte est, pour une formation, un outil de <a class="reference internal" href="../concepts/couverture.html"><span class="std std-doc">couverture</span></a> permettant de reduire les risques liés
+au franchissement d’une <a class="reference internal" href="../terrain/dangers.html"><span class="std std-doc">zone de danger linéaire</span></a>.</p>
+<p>Cette couverture peut être fournie pour lui-même, ou pour une autre formation comme une section d’infanterie.</p>
+<p>Meme s’il existe de nombreux types de porte, nous en considérerons deux principaux :</p>
+<ul class="simple">
+<li><p>Porte complète,</p></li>
+<li><p>Demi-porte.</p></li>
+</ul>
+<section id="porte-complete">
+<h2>Porte Complète<a class="headerlink" href="#porte-complete" title="Lien vers cette rubrique">¶</a></h2>
+<p>Dans une porte complète, le groupe de combat dédie 4 personnels au dispositif de couverture :</p>
+<ul class="simple">
+<li><p>La <strong>tête de colonne</strong> signale « Porte complète »,</p></li>
+<li><p>La <strong>tête de colonne</strong> dans la colonne s’arrête avant la zone de danger linéaire, s’oriente vers l’origine probable du danger,
+se pose en couverture sur un <a class="reference internal" href="../concepts/protection.html"><span class="std std-doc">point dur</span></a>, ou à défaut, se <a class="reference internal" href="../concepts/camouflage.html"><span class="std std-doc">camoufle</span></a>,
+ou, à défaut, s’allonge,</p></li>
+<li><p>Le <strong>second</strong> se place quelques mètres derrière la tête de colonne, et procède de la même manière, dans le <strong>sens opposé</strong>,
+formant une porte,</p></li>
+<li><p>Le <strong>troisième</strong> et le <strong>quatrième</strong> passent dans la porte ainsi créée, et reproduisent le dispositif de l’autre côté de la zone
+de danger linéaire,</p></li>
+<li><p>La formation couverte passe dans la porte. Le dernier membre signale « dernier passé »,</p></li>
+<li><p>La <strong>tête de colonne</strong> décroche, regarde vers l’arrière du sens de progression pour vérifier qu’aucun allié n’a été oublié, puis passe dans la porte,</p></li>
+<li><p>Le <strong>second</strong> fait de même, suivi du <strong>troisième</strong> et du <strong>quatrième</strong>,</p></li>
+<li><p>La colonne ralentit pour permettre aux quatre premiers de reprendre leur place.</p></li>
+</ul>
+</section>
+<section id="demi-porte">
+<h2>Demi-porte<a class="headerlink" href="#demi-porte" title="Lien vers cette rubrique">¶</a></h2>
+<p>La demi-porte est une version plus rapide, facile à mettre en place, mais offre moins de couverture.
+Il existe deux types de demi-porte :</p>
+<ul class="simple">
+<li><p>Normale,</p></li>
+<li><p>Inversée.</p></li>
+</ul>
+<section id="normale">
+<h3>Normale<a class="headerlink" href="#normale" title="Lien vers cette rubrique">¶</a></h3>
+<p>Dans la demi-porte normale,</p>
+<ul class="simple">
+<li><p>La <strong>tête de colonne</strong> signale « Demi-porte » et indique la direction d’orientation, en général vers l’origine probable du danger,</p></li>
+<li><p>La <strong>tête de colonne</strong> dans la colonne s’arrête avant la zone de danger linéaire, s’oriente vers la direction indiquée,
+se pose en couverture sur un <a class="reference internal" href="../concepts/protection.html"><span class="std std-doc">point dur</span></a>, ou à défaut, se <a class="reference internal" href="../concepts/camouflage.html"><span class="std std-doc">camoufle</span></a>,
+ou, à défaut, s’allonge,</p></li>
+<li><p>Le <strong>second</strong> traverse derrière la tête de colonne, afin d’éviter de passer dans sa ligne de tir, traverse la
+zone de danger linéaire, et procède de la même manière de l’autre côté de celle-ci,</p></li>
+<li><p>La formation couverte traverse derrière la tête de colonne et le second. Le dernier membre signale « dernier passé »,</p></li>
+<li><p>La <strong>tête de colonne</strong> décroche, regarde vers l’arrière du sens de progression pour vérifier qu’aucun allié n’a été oublié, puis passe dans la porte,</p></li>
+<li><p>Le <strong>second</strong> fait de même,</p></li>
+<li><p>La colonne ralentit pour permettre aux quatre premiers de reprendre leur place.</p></li>
+</ul>
+</section>
+<section id="inversee">
+<h3>Inversée<a class="headerlink" href="#inversee" title="Lien vers cette rubrique">¶</a></h3>
+<p>La demi-porte inversée offre une couverture dans les deux sens. La seule différence avec la demi-porte normale est que le
+second couvre une direction opposée à la tête de colonne.</p>
+<ul class="simple">
+<li><p>La <strong>tête de colonne</strong> signale « Demi-porte » et indique la direction d’orientation, en général vers l’origine probable du danger,</p></li>
+<li><p>La <strong>tête de colonne</strong> dans la colonne s’arrête avant la zone de danger linéaire, s’oriente vers la direction indiquée,
+se pose en couverture sur un <a class="reference internal" href="../concepts/protection.html"><span class="std std-doc">point dur</span></a>, ou à défaut, se <a class="reference internal" href="../concepts/camouflage.html"><span class="std std-doc">camoufle</span></a>,
+ou, à défaut, s’allonge,</p></li>
+<li><p>Le <strong>second</strong> traverse derrière la tête de colonne, afin d’éviter de passer dans sa ligne de tir, traverse la
+zone de danger linéaire, et procède de la même manière de l’autre côté de celle-ci, dans la direction opposée à celle couverte
+par la tête de colonne,</p></li>
+<li><p>La formation couverte traverse derrière la tête de colonne et le second. Le dernier membre signale « dernier passé »,</p></li>
+<li><p>La <strong>tête de colonne</strong> décroche, regarde vers l’arrière du sens de progression pour vérifier qu’aucun allié n’a été oublié, puis passe dans la porte,</p></li>
+<li><p>Le <strong>second</strong> fait de même,</p></li>
+<li><p>La colonne ralentit pour permettre aux quatre premiers de reprendre leur place.</p></li>
+</ul>
+</section>
+</section>
+<section id="ou-poser-une-porte">
+<h2>Où poser une porte ?<a class="headerlink" href="#ou-poser-une-porte" title="Lien vers cette rubrique">¶</a></h2>
+<p>Le choix de la localisation permet de réduire encore les risques. Dans l’idéal, la formation traverse dans un endroit où l’observation
+par l’ennemi est difficile, par exemple un virage.</p>
+</section>
+<section id="securite-de-l-autre-cote">
+<h2>Sécurité de l’autre côté<a class="headerlink" href="#securite-de-l-autre-cote" title="Lien vers cette rubrique">¶</a></h2>
+<p>Certains types de portes comprennent un élément d’éclairage de l’autre côté de la porte, notamment lorsque toute la Section traverse.</p>
+<p>Dans ce cas de figure, la deuxième équipe du groupe de combat traverse la porte en premier, et va éclairer l’autre côté de la porte
+avant le passage des autres groupes.</p>
+</section>
 </section>
 
         </article>
@@ -260,8 +344,26 @@
       <footer>
         
         <div class="related-pages">
-          
-          
+          <a class="next-page" href="../terrain/index.html">
+              <div class="page-info">
+                <div class="context">
+                  <span>Next</span>
+                </div>
+                <div class="title">Terrain, Carte &amp; Navigation</div>
+              </div>
+              <svg class="furo-related-icon"><use href="#svg-arrow-right"></use></svg>
+            </a>
+          <a class="prev-page" href="fratricide.html">
+              <svg class="furo-related-icon"><use href="#svg-arrow-right"></use></svg>
+              <div class="page-info">
+                <div class="context">
+                  <span>Previous</span>
+                </div>
+                
+                <div class="title">Gestion du risque fratricide</div>
+                
+              </div>
+            </a>
         </div>
         <div class="bottom-of-page">
           <div class="left-details">
@@ -280,8 +382,34 @@
         
       </footer>
     </div>
-    <aside class="toc-drawer no-toc">
+    <aside class="toc-drawer">
       
+      
+      <div class="toc-sticky toc-scroll">
+        <div class="toc-title-container">
+          <span class="toc-title">
+            On this page
+          </span>
+        </div>
+        <div class="toc-tree-container">
+          <div class="toc-tree">
+            <ul>
+<li><a class="reference internal" href="#">Portes</a><ul>
+<li><a class="reference internal" href="#porte-complete">Porte Complète</a></li>
+<li><a class="reference internal" href="#demi-porte">Demi-porte</a><ul>
+<li><a class="reference internal" href="#normale">Normale</a></li>
+<li><a class="reference internal" href="#inversee">Inversée</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#ou-poser-une-porte">Où poser une porte ?</a></li>
+<li><a class="reference internal" href="#securite-de-l-autre-cote">Sécurité de l’autre côté</a></li>
+</ul>
+</li>
+</ul>
+
+          </div>
+        </div>
+      </div>
       
       
     </aside>

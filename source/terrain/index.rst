@@ -1,11 +1,10 @@
 Terrain, Carte & Navigation
 ===========================
 
-Work in progress
+.. toctree::
+   :maxdepth: 1
 
-.. .. toctree::
- ..  :maxdepth: 1
-
+   dangers
 ..   carte
 ..   types
 ..   tactique

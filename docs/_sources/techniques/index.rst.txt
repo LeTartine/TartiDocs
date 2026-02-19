@@ -6,9 +6,9 @@ Techniques de combat
 
    360
    fratricide
+   portes
 ..   mouvement_individuel
 ..   reaction_contact
 ..   assaut
 ..   formations
-..   portes
 ..   tiroir_perroquet
