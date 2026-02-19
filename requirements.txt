@@ -1,3 +1,5 @@
 sphinx
 myst-parser
 pre-commit
+furo
+sphinx-rtd-theme

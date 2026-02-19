@@ -1,4 +1,4 @@
-# Observation & ISR
+# Observer
 
 Observation -> Deploiement -> Ciblage -> Feux <-> Manoeuvre -> Destruction -> Evaluation
 

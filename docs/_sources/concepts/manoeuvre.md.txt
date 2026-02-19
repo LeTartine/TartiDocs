@@ -1,6 +1,4 @@
-# Manœuvre et mouvement
-
-Observation -> Deploiement -> Ciblage -> Feux <-> Manoeuvre -> Destruction -> Evaluation
+# Manœuvrer
 
 ## Mouvement
 
@@ -12,12 +10,24 @@ Par exemple, une unité fait mouvement depuis sa base vers son point de déploie
 
 Au contraire, la manœuvre se déroule au combat, et vise à obtenir un effet sur l'ennemi.
 
-On manœuvre sur le flanc de l'ennemi pour obtenir un tir en enfilade. 
-On manœuvre en retrograde pour rompre le contact et se repositionner. 
-
-La manœuvre est **indispensable** au combat. Un element qui reste statique, ne manœuvre pas, laisse l'initiative a l'ennemi. 
-L'élément qui reste statut trop longtemps est voué à subir les attaques de l'ennemi, et meme la plus solide des défenses statiques
+La manœuvre est **indispensable** au combat. Un élément qui reste statique, ne manœuvre pas, laisse l'initiative à l'ennemi. 
+L'élément qui reste statique trop longtemps est voué à subir les attaques de l'ennemi, et meme la plus solide des défenses statiques
 finit tot ou tard par échouer (attaques sur plusieurs axes, artillerie, aviation viennent détruire une unité statique...). 
+
+### Flanquement
+
+L'attaque de flanc est l'une des bases du combat moderne. En se positionnant sur le flanc de l'ennemi, une unité peut 
+profiter d'un [tir en enfilade](https://fr.wikipedia.org/wiki/Tir_en_enfilade) devastateur, ou appliquer un tir croisé. 
+
+Une manœuvre de flanquement nécessite en général un [tir de neutralisation](neutralisation_destruction.md), 
+ou une [absence de détection](camouflage.md) par l'ennemi.
+
+### Rupture du contact
+
+La rupture du contact, notamment en utilisant le [tiroir ou le perroquet](../techniques/tiroir_perroquet.md), 
+est une forme de manœuvre visant à refuser le combat avec l'ennemi, notamment lorsque celui-ci n'est pas avantageux. 
+
+Une formation en sous-nombre va tenter de rompre le contact pour survivre et combattre en des termes plus avantageux.
 
 ## Utilisation du terrain
 

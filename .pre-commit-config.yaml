@@ -7,3 +7,4 @@ repos:
         additional_dependencies:
           - sphinx
           - myst_parser
+          - furo

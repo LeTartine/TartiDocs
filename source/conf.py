@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Tac Docs'
+project = 'TartiDoc'
 copyright = '2026, Tartine'
 author = 'Tartine'
 release = '0.0.1'
@@ -24,5 +24,9 @@ language = 'fr'
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
-html_theme = 'alabaster'
+html_theme = "furo"
 html_static_path = ['_static']
+html_theme_options = {
+    "navigation_with_keys": True,
+    "top_of_page_button": "edit",
+}

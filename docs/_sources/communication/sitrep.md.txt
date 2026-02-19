@@ -7,20 +7,22 @@ Dans notre cas, le SITREP contient:
 - Munitions
 
 ## Sante
-- **Vert**: pleine santé, aucune entrave, aucun saignement
-- **Orange**: au moins l'un des suivants - blessure ou traumatisme, hemorragie contenue, mouvement faiblement entravé
-- **Rouge**: saignement modéré ou lourd, traumatisme lourd, mouvement fortement entravé
+- <span style="color:green">**Vert**</span> : pleine santé, aucune entrave, aucun saignement
+- <span style="color:orange">**Orange**</span> : au moins l'un des suivants - blessure ou traumatisme, hemorragie contenue, mouvement faiblement ou pas entravé
+- <span style="color:red">**Rouge**</span> : saignement modéré ou lourd, traumatisme lourd, mouvement fortement entravé
 
 ## Munitions
-- **Vert**: >60%
-- **Orange**: 30% - 60%
-- **Rouge**: <30%
+- <span style="color:green">**Vert**</span> : >60%
+- <span style="color:orange">**Orange**</span> : 30% - 60%
+- <span style="color:red">**Rouge**</span> : <30%
+- **Noir** : 0%
 
 ## Utilisation
-Dans un groupe de combat ou une équipe, le SITREP est demandé par le chef de groupe, son second ou le médic. 
+
+Sur le serveur Force Operationnelle Francaise (FOF), le SITREP est demandé par le chef de groupe, son second ou le médic. 
 Il est donné par chaque PAX dans l'ordre de la colonne, via la fréquence radiophonique du groupe. 
 
-Par exemple:
+Par exemple :
 
 ```
 - A tous ici medic, SITREP
@@ -30,14 +32,14 @@ Par exemple:
 ...
 ```
 
+Dans tout autre contexte, un SITREP est simplement un rapport de situation. 
+
 ## Complément - ACE Report et autres emplois
 
-Dans les contextes anglophones, un SITREP signifie simplement une demande de rapport sur la situation du PAX, de l'équipe ou du groupe. 
+La doctrine américaine utilise le ACE report, qui signifie *Ammunition, Consumables and Equipment*. 
 
-La doctrine américaine utilise le ACE report, qui signifie *Ammunition, Consummables and Equipment*. 
-
-Dans un ACE report, le statut est rapporté comme suit:
-- **Green**: >90%
-- **Orange**: 70% - 80%
-- **Red**: 60% - 70%
+Dans un ACE report, le statut est rapporté comme suit :
+- <span style="color:green">**Green**</span> : >90%
+- <span style="color:orange">**Orange**</span> : 70% - 80%
+- <span style="color:red">**Red**</span> : 60% - 70%
 - **Black**: <50%
