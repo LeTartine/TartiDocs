@@ -1,10 +1,11 @@
 # Situation Report (SITREP)
 
-A l'origine, mot cle demandant un simple rapport de situation. 
+SITREP signifie a l'origine **Rapport de Situation**. Pour donner un SITREP traditionnel, une formation indique :
+- Sa localisation
+- Son activité
 
-Dans notre cas, le SITREP contient:
-- Santé
-- Munitions
+Sur le serveur Force Operationnelle Francaise (FOF),
+le SITREP est utilisé comme un *ACE (Ammunition, Casualty and Equipment) check* individuel pour chaque PAX.
 
 ## Sante
 - <span style="color:green">**Vert**</span> : pleine santé, aucune entrave, aucun saignement
@@ -19,7 +20,7 @@ Dans notre cas, le SITREP contient:
 
 ## Utilisation
 
-Sur le serveur Force Operationnelle Francaise (FOF), le SITREP est demandé par le chef de groupe, son second ou le médic. 
+Au sein de la FOF, le SITREP est demandé par le chef de groupe, son second ou le médic. 
 Il est donné par chaque PAX dans l'ordre de la colonne, via la fréquence radiophonique du groupe. 
 
 Par exemple :
@@ -32,14 +33,36 @@ Par exemple :
 ...
 ```
 
-Dans tout autre contexte, un SITREP est simplement un rapport de situation. 
+Dans tout autre contexte, un SITREP reprend sa signification traditionnelle. 
 
-## Complément - ACE Report et autres emplois
+## Complément - A.C.E Report et A.C.E Check
 
-La doctrine américaine utilise le ACE report, qui signifie *Ammunition, Consumables and Equipment*. 
+La doctrine américaine utilise le *A.C.E report*, qui signifie *Ammunition, Casualty and Equipment*. 
+Le A.C.E report a pour vocation d'évaluer la capacité de combat d'une formation. Un ACE report est donc donné pour une 
+formation entiere, pas par chaque PAX.
 
-Dans un ACE report, le statut est rapporté comme suit :
-- <span style="color:green">**Green**</span> : >90%
-- <span style="color:orange">**Orange**</span> : 70% - 80%
-- <span style="color:red">**Red**</span> : 60% - 70%
-- **Black**: <50%
+Pour compiler un ACE report, la formation organise un ACE check, ou chaque PAX indique ses points d'attention, par exemple :
+
+> (1A1) Besoin de 3x chargeurs 5.56, 0 grenades restantes.
+
+Dans un ACE report, le statut est également donné via un code couleur. Celui-ci varie en fonction des corps d'armée, 
+mais suit en général la structure suivante :
+
+## Ammunition & Equipment
+
+Les munitions couvrent tout equipement réutilisable, y compris les lances roquettes Carl Gustaf. 
+Les equipements incluent tout le reste, en particulier les consommables et les jetables, comme les grenades, 
+AT-4, bandages, etc.
+
+- <span style="color:green">**Green**</span> : RAS, en general omis car statut par defaut
+- <span style="color:yellow">**Orange**</span> : 50% - 89%
+- <span style="color:red">**Red**</span> : 20% - 49%
+- **Black** : < 19%
+
+## Casualty
+
+- <span style="color:green">**Green**</span> : Ok
+- <span style="color:yellow">**Yellow**</span> : Capacité de combat légèrement dégradée
+- <span style="color:red">**Red**</span> : Capacité de combat fortement dégradée
+- **Black** : Hors de combat
+
