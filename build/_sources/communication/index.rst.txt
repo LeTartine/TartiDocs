@@ -6,4 +6,4 @@ Communiquer
 
    procedure
    sitrep
-   ddro
+   signaler
