@@ -1,6 +1,31 @@
 # Essentiels
 
-Principes de bases a comprendre, pour tous les grunts en milsim:
+Principes de bases a comprendre, pour tous les PAX en milsim:
+
+Chaque soldat d'infanterie dispose de douze compétences ou "actes réflexes" :
+- S'orienter,
+- Observer,
+- Progresser,
+- Se protéger,
+- Se camoufler,
+- Apprécier une distance,
+- Désigner un objectif,
+- Mettre en œuvre son armement,
+- Communiquer,
+- Rendre-compte,
+- Garder la liaison,
+- S'équiper.
+
+Chaque soldat d'infanterie doit savoir mener trois types d'actions principales :
+- Se déplacer (mobilité),
+- Se poster (protection),
+- Utiliser ses armes (puissance de feu). 
+
+En **permanence**, le soldat :
+- Collecte du renseignement,
+- Met en œuvre des mesures de sûreté et de sauvegarde.
+
+= Work in progress =
 
 ## Competences individuelles
 

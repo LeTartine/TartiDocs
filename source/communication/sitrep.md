@@ -1,24 +1,32 @@
 # Situation Report (SITREP)
 
-SITREP signifie a l'origine **Rapport de Situation**. Pour donner un SITREP traditionnel, une formation indique :
-- Sa localisation
-- Son activité
+SITREP signifie **Situation Report** en anglais, ou **Point de Situation** en Francais. 
+
+## Utilisation normale
+
+Pour donner un SITREP traditionnel, une formation fournit simplement les informations suivantes :
+- Sa localisation,
+- Son activité en cours,
+- Toute information utile sur la situation locale.
+
+## SITREP FOF
 
 Sur le serveur Force Operationnelle Francaise (FOF),
-le SITREP est utilisé comme un *ACE (Ammunition, Casualty and Equipment) check* individuel pour chaque PAX.
+le SITREP est utilisé comme un *ACE (Ammunition, Casualty and Equipment) check* (voir ci-dessous) individuel pour chaque PAX.
 
-## Sante
+### Sante
 - <span style="color:green">**Vert**</span> : pleine santé, aucune entrave, aucun saignement
-- <span style="color:orange">**Orange**</span> : au moins l'un des suivants - blessure ou traumatisme, hemorragie contenue, mouvement faiblement ou pas entravé
+- <span style="color:orange">**Orange**</span> : au moins l'un des suivants - blessure ou traumatisme, hemorragie contenue, 
+mouvement faiblement ou pas entravé
 - <span style="color:red">**Rouge**</span> : saignement modéré ou lourd, traumatisme lourd, mouvement fortement entravé
 
-## Munitions
+### Munitions
 - <span style="color:green">**Vert**</span> : >60%
 - <span style="color:orange">**Orange**</span> : 30% - 60%
 - <span style="color:red">**Rouge**</span> : <30%
 - **Noir** : 0%
 
-## Utilisation
+### Exemple
 
 Au sein de la FOF, le SITREP est demandé par le chef de groupe, son second ou le médic. 
 Il est donné par chaque PAX dans l'ordre de la colonne, via la fréquence radiophonique du groupe. 
@@ -32,8 +40,6 @@ Par exemple :
 - 3, vert jaune
 ...
 ```
-
-Dans tout autre contexte, un SITREP reprend sa signification traditionnelle. 
 
 ## Complément - A.C.E Report et A.C.E Check
 

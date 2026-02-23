@@ -3,10 +3,10 @@
   <head><meta charset="utf-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="color-scheme" content="light dark"><meta name="viewport" content="width=device-width, initial-scale=1" />
-<link rel="index" title="Index" href="../genindex.html"><link rel="search" title="Recherche" href="../search.html"><link rel="next" title="Techniques de combat" href="../techniques/index.html"><link rel="prev" title="Procédure de base a la radio" href="procedure.html">
+<link rel="index" title="Index" href="../genindex.html"><link rel="search" title="Recherche" href="../search.html">
 
     <!-- Generated with Sphinx 9.1.0 and Furo 2025.12.19 -->
-        <title>Situation Report (SITREP) - Documentation TartiDoc 0.0.1</title>
+        <title>Signaler un contact - Documentation TartiDoc 0.0.1</title>
       <link rel="stylesheet" type="text/css" href="../_static/pygments.css?v=d111a655" />
     <link rel="stylesheet" type="text/css" href="../_static/styles/furo.css?v=7bdb33bb" />
     <link rel="stylesheet" type="text/css" href="../_static/styles/furo-extensions.css?v=8dab3a3b" />
@@ -172,7 +172,7 @@
           <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
         </button>
       </div>
-      <label class="toc-overlay-icon toc-header-icon" for="__toc">
+      <label class="toc-overlay-icon toc-header-icon no-toc" for="__toc">
         <span class="icon"><svg><use href="#svg-toc"></use></svg></span>
       </label>
     </div>
@@ -190,7 +190,7 @@
   <input type="hidden" name="area" value="default">
 </form>
 <div id="searchbox"></div><div class="sidebar-scroll"><div class="sidebar-tree">
-  <ul class="current">
+  <ul>
 <li class="toctree-l1"><a class="reference internal" href="../essentiels.html">Essentiels</a></li>
 <li class="toctree-l1 has-children"><a class="reference internal" href="../concepts/index.html">Concepts du combat</a><input aria-label="Toggle navigation of Concepts du combat" class="toctree-checkbox" id="toctree-checkbox-1" name="toctree-checkbox-1" role="switch" type="checkbox"/><label for="toctree-checkbox-1"><span class="icon"><svg><use href="#svg-arrow-right"></use></svg></span></label><ul>
 <li class="toctree-l2"><a class="reference internal" href="../concepts/appui.html">Appuyer</a></li>
@@ -202,9 +202,9 @@
 <li class="toctree-l2"><a class="reference internal" href="../concepts/protection.html">Se Protéger</a></li>
 </ul>
 </li>
-<li class="toctree-l1 current has-children"><a class="reference internal" href="index.html">Communiquer</a><input aria-label="Toggle navigation of Communiquer" checked="" class="toctree-checkbox" id="toctree-checkbox-2" name="toctree-checkbox-2" role="switch" type="checkbox"/><label for="toctree-checkbox-2"><span class="icon"><svg><use href="#svg-arrow-right"></use></svg></span></label><ul class="current">
+<li class="toctree-l1 has-children"><a class="reference internal" href="index.html">Communiquer</a><input aria-label="Toggle navigation of Communiquer" class="toctree-checkbox" id="toctree-checkbox-2" name="toctree-checkbox-2" role="switch" type="checkbox"/><label for="toctree-checkbox-2"><span class="icon"><svg><use href="#svg-arrow-right"></use></svg></span></label><ul>
 <li class="toctree-l2"><a class="reference internal" href="procedure.html">Procédure de base a la radio</a></li>
-<li class="toctree-l2 current current-page"><a class="current reference internal" href="#">Situation Report (SITREP)</a></li>
+<li class="toctree-l2"><a class="reference internal" href="sitrep.html">Situation Report (SITREP)</a></li>
 </ul>
 </li>
 <li class="toctree-l1 has-children"><a class="reference internal" href="../techniques/index.html">Techniques de combat</a><input aria-label="Toggle navigation of Techniques de combat" class="toctree-checkbox" id="toctree-checkbox-3" name="toctree-checkbox-3" role="switch" type="checkbox"/><label for="toctree-checkbox-3"><span class="icon"><svg><use href="#svg-arrow-right"></use></svg></span></label><ul>
@@ -237,7 +237,7 @@
         </a>
         <div class="content-icon-container">
           <div class="view-this-page">
-  <a class="muted-link" href="../_sources/communication/sitrep.md.txt" title="View this page">
+  <a class="muted-link" href="../_sources/communication/rendre-compte.md.txt" title="View this page">
     <svg><use href="#svg-eye"></use></svg>
     <span class="visually-hidden">View this page</span>
   </a>
@@ -250,92 +250,13 @@
               <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
             </button>
           </div>
-          <label class="toc-overlay-icon toc-content-icon" for="__toc">
+          <label class="toc-overlay-icon toc-content-icon no-toc" for="__toc">
             <span class="icon"><svg><use href="#svg-toc"></use></svg></span>
           </label>
         </div>
         <article role="main" id="furo-main-content">
-          <section id="situation-report-sitrep">
-<h1>Situation Report (SITREP)<a class="headerlink" href="#situation-report-sitrep" title="Lien vers cette rubrique">¶</a></h1>
-<p>SITREP signifie <strong>Situation Report</strong> en anglais, ou <strong>Point de Situation</strong> en Francais.</p>
-<section id="utilisation-normale">
-<h2>Utilisation normale<a class="headerlink" href="#utilisation-normale" title="Lien vers cette rubrique">¶</a></h2>
-<p>Pour donner un SITREP traditionnel, une formation fournit simplement les informations suivantes :</p>
-<ul class="simple">
-<li><p>Sa localisation,</p></li>
-<li><p>Son activité en cours,</p></li>
-<li><p>Toute information utile sur la situation locale.</p></li>
-</ul>
-</section>
-<section id="sitrep-fof">
-<h2>SITREP FOF<a class="headerlink" href="#sitrep-fof" title="Lien vers cette rubrique">¶</a></h2>
-<p>Sur le serveur Force Operationnelle Francaise (FOF),
-le SITREP est utilisé comme un <em>ACE (Ammunition, Casualty and Equipment) check</em> (voir ci-dessous) individuel pour chaque PAX.</p>
-<section id="sante">
-<h3>Sante<a class="headerlink" href="#sante" title="Lien vers cette rubrique">¶</a></h3>
-<ul class="simple">
-<li><p><span style="color:green"><strong>Vert</strong></span> : pleine santé, aucune entrave, aucun saignement</p></li>
-<li><p><span style="color:orange"><strong>Orange</strong></span> : au moins l’un des suivants - blessure ou traumatisme, hemorragie contenue,
-mouvement faiblement ou pas entravé</p></li>
-<li><p><span style="color:red"><strong>Rouge</strong></span> : saignement modéré ou lourd, traumatisme lourd, mouvement fortement entravé</p></li>
-</ul>
-</section>
-<section id="munitions">
-<h3>Munitions<a class="headerlink" href="#munitions" title="Lien vers cette rubrique">¶</a></h3>
-<ul class="simple">
-<li><p><span style="color:green"><strong>Vert</strong></span> : &gt;60%</p></li>
-<li><p><span style="color:orange"><strong>Orange</strong></span> : 30% - 60%</p></li>
-<li><p><span style="color:red"><strong>Rouge</strong></span> : &lt;30%</p></li>
-<li><p><strong>Noir</strong> : 0%</p></li>
-</ul>
-</section>
-<section id="exemple">
-<h3>Exemple<a class="headerlink" href="#exemple" title="Lien vers cette rubrique">¶</a></h3>
-<p>Au sein de la FOF, le SITREP est demandé par le chef de groupe, son second ou le médic.
-Il est donné par chaque PAX dans l’ordre de la colonne, via la fréquence radiophonique du groupe.</p>
-<p>Par exemple :</p>
-<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="o">-</span> <span class="n">A</span> <span class="n">tous</span> <span class="n">ici</span> <span class="n">medic</span><span class="p">,</span> <span class="n">SITREP</span>
-<span class="o">-</span> <span class="mi">1</span><span class="p">,</span> <span class="n">vert</span> <span class="n">rouge</span>
-<span class="o">-</span> <span class="mi">2</span><span class="p">,</span> <span class="n">jaune</span> <span class="n">vert</span>
-<span class="o">-</span> <span class="mi">3</span><span class="p">,</span> <span class="n">vert</span> <span class="n">jaune</span>
-<span class="o">...</span>
-</pre></div>
-</div>
-</section>
-</section>
-<section id="complement-a-c-e-report-et-a-c-e-check">
-<h2>Complément - A.C.E Report et A.C.E Check<a class="headerlink" href="#complement-a-c-e-report-et-a-c-e-check" title="Lien vers cette rubrique">¶</a></h2>
-<p>La doctrine américaine utilise le <em>A.C.E report</em>, qui signifie <em>Ammunition, Casualty and Equipment</em>.
-Le A.C.E report a pour vocation d’évaluer la capacité de combat d’une formation. Un ACE report est donc donné pour une
-formation entiere, pas par chaque PAX.</p>
-<p>Pour compiler un ACE report, la formation organise un ACE check, ou chaque PAX indique ses points d’attention, par exemple :</p>
-<blockquote>
-<div><p>(1A1) Besoin de 3x chargeurs 5.56, 0 grenades restantes.</p>
-</div></blockquote>
-<p>Dans un ACE report, le statut est également donné via un code couleur. Celui-ci varie en fonction des corps d’armée,
-mais suit en général la structure suivante :</p>
-</section>
-<section id="ammunition-equipment">
-<h2>Ammunition &amp; Equipment<a class="headerlink" href="#ammunition-equipment" title="Lien vers cette rubrique">¶</a></h2>
-<p>Les munitions couvrent tout equipement réutilisable, y compris les lances roquettes Carl Gustaf.
-Les equipements incluent tout le reste, en particulier les consommables et les jetables, comme les grenades,
-AT-4, bandages, etc.</p>
-<ul class="simple">
-<li><p><span style="color:green"><strong>Green</strong></span> : RAS, en general omis car statut par defaut</p></li>
-<li><p><span style="color:yellow"><strong>Orange</strong></span> : 50% - 89%</p></li>
-<li><p><span style="color:red"><strong>Red</strong></span> : 20% - 49%</p></li>
-<li><p><strong>Black</strong> : &lt; 19%</p></li>
-</ul>
-</section>
-<section id="casualty">
-<h2>Casualty<a class="headerlink" href="#casualty" title="Lien vers cette rubrique">¶</a></h2>
-<ul class="simple">
-<li><p><span style="color:green"><strong>Green</strong></span> : Ok</p></li>
-<li><p><span style="color:yellow"><strong>Yellow</strong></span> : Capacité de combat légèrement dégradée</p></li>
-<li><p><span style="color:red"><strong>Red</strong></span> : Capacité de combat fortement dégradée</p></li>
-<li><p><strong>Black</strong> : Hors de combat</p></li>
-</ul>
-</section>
+          <section id="signaler-un-contact">
+<h1>Signaler un contact<a class="headerlink" href="#signaler-un-contact" title="Lien vers cette rubrique">¶</a></h1>
 </section>
 
         </article>
@@ -343,26 +264,8 @@ AT-4, bandages, etc.</p>
       <footer>
         
         <div class="related-pages">
-          <a class="next-page" href="../techniques/index.html">
-              <div class="page-info">
-                <div class="context">
-                  <span>Next</span>
-                </div>
-                <div class="title">Techniques de combat</div>
-              </div>
-              <svg class="furo-related-icon"><use href="#svg-arrow-right"></use></svg>
-            </a>
-          <a class="prev-page" href="procedure.html">
-              <svg class="furo-related-icon"><use href="#svg-arrow-right"></use></svg>
-              <div class="page-info">
-                <div class="context">
-                  <span>Previous</span>
-                </div>
-                
-                <div class="title">Procédure de base a la radio</div>
-                
-              </div>
-            </a>
+          
+          
         </div>
         <div class="bottom-of-page">
           <div class="left-details">
@@ -381,36 +284,8 @@ AT-4, bandages, etc.</p>
         
       </footer>
     </div>
-    <aside class="toc-drawer">
+    <aside class="toc-drawer no-toc">
       
-      
-      <div class="toc-sticky toc-scroll">
-        <div class="toc-title-container">
-          <span class="toc-title">
-            On this page
-          </span>
-        </div>
-        <div class="toc-tree-container">
-          <div class="toc-tree">
-            <ul>
-<li><a class="reference internal" href="#">Situation Report (SITREP)</a><ul>
-<li><a class="reference internal" href="#utilisation-normale">Utilisation normale</a></li>
-<li><a class="reference internal" href="#sitrep-fof">SITREP FOF</a><ul>
-<li><a class="reference internal" href="#sante">Sante</a></li>
-<li><a class="reference internal" href="#munitions">Munitions</a></li>
-<li><a class="reference internal" href="#exemple">Exemple</a></li>
-</ul>
-</li>
-<li><a class="reference internal" href="#complement-a-c-e-report-et-a-c-e-check">Complément - A.C.E Report et A.C.E Check</a></li>
-<li><a class="reference internal" href="#ammunition-equipment">Ammunition &amp; Equipment</a></li>
-<li><a class="reference internal" href="#casualty">Casualty</a></li>
-</ul>
-</li>
-</ul>
-
-          </div>
-        </div>
-      </div>
       
       
     </aside>
