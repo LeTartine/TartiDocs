@@ -26,7 +26,7 @@ S'ils regardent à droite, je regarde a gauche. S'ils sont occupés (carte, medi
 - **[Savoir eviter le tir fratricide](techniques/fratricide)** : CEVITAL, identification des cibles, gestion du stress,
 - **Annoncer** : Les copains ne savent pas lire les pensées. Ne pas hésiter à informer de ce que l'on fait. 
 "Je recharge", "je bouge", "je regarde a droite", "je me soigne", "je suis en appui".
-- **Discipline de tir** : Sauf pour se défendre, je signale toujours les contacts ([DDRO](communication/ddro)) 
+- **Discipline de tir** : Sauf pour se défendre, je [signale](communication/signaler) toujours les contacts
 et demande des instructions avant de tirer.
 
 ## Competences collectives
@@ -41,7 +41,7 @@ Il tire en appui, je manœuvre. Il manœuvre, je tire en appui.
   - Base procédure radiophonique (minimum) : "Destinataire ici Emetteur" — Message
   - Efficacité a la radio : pas de communication superflue, privilégier la voix
   - [SITREP](communication/sitrep)
-  - Signalement [DDRO](communication/ddro) : Signaler un contact en donnant Direction, Description, Repere, Objectif
+  - [Signaler une observation](communication/signaler) : Signaler un contact en donnant Direction, Description, Repere, Objectif
 - **Techniques de mouvement collectif** :
   - Tiroir / Perroquet
   - Porte (demi, complete)
