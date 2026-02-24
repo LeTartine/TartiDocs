@@ -97,5 +97,5 @@ Le NVAPD est plus approprié pour rendre-compte par la radio, lorsque l'interloc
 - Position : OU ? PAR OU ? 
 - Délai : QUAND 
 
-[1] INF 37.001 - Manuel d'emploi du groupe d'infanterie, 2014
-[2] PFT INF 3.2.01/7 - Manuel d'emploi du groupe d'infanterie, 2020
+1. INF 37.001 - Manuel d'emploi du groupe d'infanterie, 2014
+2. PFT INF 3.2.01/7 - Manuel d'emploi du groupe d'infanterie, 2020
