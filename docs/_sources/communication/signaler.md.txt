@@ -2,11 +2,13 @@
 
 Le combattant ou une unité sait rendre-compte d'une observation ou d'un contact, en général de l'ennemi. 
 
-Deux méthodes principales sont enseignées aux forces armées :
+Deux méthodes principales et complémentaires sont enseignées aux forces armées :
 - la DDRO, mentionnée dans le manuel du groupe d'infanterie de 2014 [1]
-- la NVAPD, mentionnée dans le manuel du groupe d'infanteire de 2020 [2]
+- la NVAPD, mentionnée dans le manuel du groupe d'infanterie de 2020 [2]
 
 ## Direction - Distance - Repère - Objectif (DDRO)
+
+`Nord-Nord-Ouest, azimut 345, approx. 200m, gauche maison jaune, 2 PAX en alerte`
 
 La méthode DDRO : 
 Direction - Distance - Repère - Objectif, dans cet ordre, a l'avantage de fournir des informations
@@ -21,6 +23,8 @@ En cas d'information incomplète, cela permet aux observateurs de savoir immédi
 
 #### Cadran horaire
 
+`À nos trois heures`
+
 La méthode du cadran horaire utilise un cadran de montre (1 à 12h), et signale relativement
 au sens de progression de la formation.
 
@@ -34,7 +38,9 @@ Très utile lorsque l'unité est en mouvement et/ou regarde dans une seule direc
 
 #### Points cardinaux, inter-cardinaux et azimuts
 
-L'utilisation des points cardinaux (Nord - Est - Sud - Ouest), inter-cardinaux (Nord-Est, Est-Nord-Est, etc.) 
+`Nord-Nord-Ouest, azimut 345`
+
+L'utilisation des points cardinaux (Nord – Est – Sud – Ouest), inter-cardinaux (Nord-Est, Est-Nord-Est, etc.) 
 ou même d'[azimuts](https://fr.wikipedia.org/wiki/Azimut) permet de donner une direction **absolue**, 
 par rapport à la carte ou à la boussole.
 
@@ -60,24 +66,31 @@ La distance peut être approximative. Dans ce cas, le signalement doit clairemen
 `Approximativement 200 mètres`. 
 
 Il est aussi possible d'utiliser des indicateurs plus subjectifs comme "proche" ou "loin", en particulier pour indiquer un niveau
-de danger. Un `3 heures, ennemi proche` indique un contact imminent.
+de danger. Un `ennemi proche` indique un contact potentiel imminent.
 
 Calculer une distance plus précise peut être nécessaire, par exemple pour un tir anti-char.
 Plusieurs moyens peuvent être utilisés, par exemple utiliser un télémètre ou une carte.
 
 ### Repère
 
-Work in Progress
+`À gauche de la maison jaune`
+
+Un point de repère visuel et distinctif, par exemple un batiment reconnaissable, un arbre isolé, etc. 
 
 ### Objectif
 
-Work in Progress
+`2 PAX en alerte`
+
+Objectif est une description de l'observation. L'objectif est en général décrit en utilisant les lettres N, V et A 
+du NVAPD (chapitre ci-dessous). 
+
+On indique donc la Nature, le Volume et l'Attitude. 
 
 ## Nature-Volume-Attitude-Position-Délai (NVAPD)
 
-Plutôt pour rendre compte à la radio ?
+Le NVAPD est plus approprié pour rendre-compte par la radio, lorsque l'interlocuteur n'est pas nécessairement
+à portée visuelle. 
 
-Acte de base pour rendre-compte avec exactitude et précision des observations :
 - Nature : QUI ou QUOI ?
 - Volume : COMBIEN ?
 - Attitude : COMMENT, faisant quoi ?
