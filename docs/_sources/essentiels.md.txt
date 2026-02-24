@@ -2,19 +2,7 @@
 
 Principes de bases a comprendre, pour tous les PAX en milsim:
 
-Chaque soldat d'infanterie dispose de douze compétences ou "actes réflexes" :
-- S'orienter,
-- Observer,
-- Progresser,
-- Se protéger,
-- Se camoufler,
-- Apprécier une distance,
-- Désigner un objectif,
-- Mettre en œuvre son armement,
-- Communiquer,
-- Rendre-compte,
-- Garder la liaison,
-- S'équiper.
+Chaque soldat d'infanterie dispose de [douze compétences ou "actes réflexes"](concepts/reflexes). 
 
 Chaque soldat d'infanterie doit savoir mener trois types d'actions principales :
 - Se déplacer (mobilité),
