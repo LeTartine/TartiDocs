@@ -22,7 +22,7 @@ L'attaque de flanc est l'une des bases du combat moderne. En se positionnant sur
 profiter d'un [tir en enfilade](https://fr.wikipedia.org/wiki/Tir_en_enfilade) devastateur, ou appliquer un tir croisé. 
 
 Une manœuvre de flanquement nécessite en général un [tir de neutralisation](neutralisation_destruction.md), 
-ou une [absence de détection](camouflage.md) par l'ennemi.
+ou une [absence de détection](../competences/camouflage.md) par l'ennemi.
 
 ### Rupture du contact
 
@@ -35,8 +35,8 @@ Une formation en sous-nombre va tenter de rompre le contact pour survivre et com
 
 La manœuvre prend en compte le [terrain](../terrain/tactique), en particulier :
 - a quel point le terrain rend-il la manœuvre difficile,
-- le terrain est-il propice a la [protection](protection) contre les feux ennemis,
-- le terrain est-il propice au [camouflage](camouflage) et à la contre-[observation](observation).
+- le terrain est-il propice a la [protection](../competences/protection.md) contre les feux ennemis,
+- le terrain est-il propice au [camouflage](../competences/camouflage.md) et à la contre-[observation](../competences/observation.md).
 
 
 1. PFT INF 3.2.01/7 - Manuel d'emploi du groupe d'infanterie, 2020

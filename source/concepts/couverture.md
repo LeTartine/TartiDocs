@@ -26,7 +26,7 @@ Une technique plus avancée d'appui mutuel au sein d'un groupe de combat.
 Voir [technique de la porte](../techniques/portes.md). 
 
 > Un groupe de combat s'apprête à traverser une route. 
-> Deux PAX se positionne derriere des [couverts](protection.md) et pointent leurs canons dans chaque direction de la route.
+> Deux PAX se positionne derriere des [couverts](../competences/protection.md) et pointent leurs canons dans chaque direction de la route.
 > Deux PAX traversent, et prennent la meme posture de l'autré cote de la route.
 > Le reste du groupe traverse dans la porte ainsi créée. 
 

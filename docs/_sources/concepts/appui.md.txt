@@ -28,7 +28,7 @@ L'appui au combat est parfois délibéré. Par exemple :
 > Le Chef de Section positionne un groupe d'appui sur une position dominant l'objectif A.
 > 
 > Les groupes de combat progressent autant que possible en utilisant le terrain pour progresser
-> en restant [camouflés](camouflage.md) et se [protegés](protection.md). 
+> en restant [camouflés](../competences/camouflage.md) et se [protegés](../competences/protection.md). 
 > 
 > Avant et pendant le franchissement du dernier découvert, le groupe de soutien effectue un 
 > tir de neutralisation nourri et précis contre l'objectif A. 

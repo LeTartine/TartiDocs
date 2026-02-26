@@ -1,7 +1,7 @@
 # Terrains Dangereux
 
-Les terrains dangereux sont principalement ceux qui n'offrent ni [camouflage](../concepts/camouflage.md), 
-ni [protection](../concepts/protection.md).
+Les terrains dangereux sont principalement ceux qui n'offrent ni [camouflage](../competences/camouflage.md), 
+ni [protection](../competences/protection.md).
 
 Les traverser fait prendre un risque significatif à la formation. 
 

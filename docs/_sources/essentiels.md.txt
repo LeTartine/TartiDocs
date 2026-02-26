@@ -2,7 +2,7 @@
 
 Principes de bases a comprendre, pour tous les PAX en milsim:
 
-Chaque soldat d'infanterie dispose de [douze compétences ou "actes réflexes"](concepts/reflexes). 
+Chaque soldat d'infanterie dispose de [douze compétences ou "actes réflexes"](competences/index). 
 
 Chaque soldat d'infanterie doit savoir mener trois types d'actions principales :
 - Se déplacer (mobilité),
@@ -17,8 +17,8 @@ En **permanence**, le soldat :
 
 ## Competences individuelles
 
-- **Lire son environnement** : Ou puis-je me [camoufler](concepts/camouflage) (couleur, lumiere, fond, forme),
-ou puis-je [me proteger](concepts/protection), par où puis-je [manœuvrer](concepts/manoeuvre) ([terrain](terrain/tactique)). 
+- **Lire son environnement** : Ou puis-je me [camoufler](competences/camouflage.md) (couleur, lumiere, fond, forme),
+ou puis-je [me proteger](competences/protection.md), par où puis-je [manœuvrer](concepts/manoeuvre) ([terrain](terrain/tactique)). 
 Par où le danger peut-il venir (hierarchie des menaces) ?
 - **Lire ses collegues** : Que font mes collegues, que dois-je faire pour les aider/couvrir, 
 comment puis-je complémenter leur action.

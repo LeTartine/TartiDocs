@@ -8,8 +8,4 @@ Concepts du combat
    couverture
    manoeuvre
    neutralisation_destruction
-   observation
-   camouflage
-   protection
 ..   organisation
-..   reflexes

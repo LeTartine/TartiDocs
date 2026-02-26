@@ -14,7 +14,7 @@ Meme s'il existe de nombreux types de porte, nous en considérerons deux princip
 Dans une porte complète, le groupe de combat dédie 4 personnels au dispositif de couverture :
 - La **tête de colonne** signale "Porte complète",
 - La **tête de colonne** dans la colonne s'arrête avant la zone de danger linéaire, s'oriente vers l'origine probable du danger, 
-se pose en couverture sur un [point dur](../concepts/protection.md), ou à défaut, se [camoufle](../concepts/camouflage.md), 
+se pose en couverture sur un [point dur](../competences/protection.md), ou à défaut, se [camoufle](../competences/camouflage.md), 
 ou, à défaut, s'allonge, 
 - Le **second** se place quelques mètres derrière la tête de colonne, et procède de la même manière, dans le **sens opposé**, 
 formant une porte,
@@ -37,7 +37,7 @@ Il existe deux types de demi-porte :
 Dans la demi-porte normale, 
 - La **tête de colonne** signale "Demi-porte" et indique la direction d'orientation, en général vers l'origine probable du danger,
 - La **tête de colonne** dans la colonne s'arrête avant la zone de danger linéaire, s'oriente vers la direction indiquée, 
-se pose en couverture sur un [point dur](../concepts/protection.md), ou à défaut, se [camoufle](../concepts/camouflage.md), 
+se pose en couverture sur un [point dur](../competences/protection.md), ou à défaut, se [camoufle](../competences/camouflage.md), 
 ou, à défaut, s'allonge, 
 - Le **second** traverse derrière la tête de colonne, afin d'éviter de passer dans sa ligne de tir, traverse la 
 zone de danger linéaire, et procède de la même manière de l'autre côté de celle-ci, 
@@ -52,7 +52,7 @@ La demi-porte inversée offre une couverture dans les deux sens. La seule diffé
 second couvre une direction opposée à la tête de colonne. 
 - La **tête de colonne** signale "Demi-porte" et indique la direction d'orientation, en général vers l'origine probable du danger,
 - La **tête de colonne** dans la colonne s'arrête avant la zone de danger linéaire, s'oriente vers la direction indiquée, 
-se pose en couverture sur un [point dur](../concepts/protection.md), ou à défaut, se [camoufle](../concepts/camouflage.md), 
+se pose en couverture sur un [point dur](../competences/protection.md), ou à défaut, se [camoufle](../competences/camouflage.md), 
 ou, à défaut, s'allonge, 
 - Le **second** traverse derrière la tête de colonne, afin d'éviter de passer dans sa ligne de tir, traverse la 
 zone de danger linéaire, et procède de la même manière de l'autre côté de celle-ci, dans la direction opposée à celle couverte
