@@ -12,9 +12,7 @@ N'importe quel combattant doit maîtriser 12 actes réflexes à la perfection.
    protection
    camouflage
    distance
-   objectif
    armement
    communiquer
-   rendre_compte
    liaison
    equipement

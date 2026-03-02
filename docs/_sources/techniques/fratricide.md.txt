@@ -11,7 +11,9 @@ Les combattants mettent en place plusieurs principes et mesures pour gerer le ri
 
 Certification d'identification, Elévation, Visée, Index, Tir, Analyse, Latéralité
 
-### Priorite de tir
+### Priorité de tir
+
+Work in progress
 
 - Ne pas passer devant une arme alliée
 - Ne pas tirer depuis l'arrière d'un allié 

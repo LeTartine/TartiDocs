@@ -3,8 +3,8 @@
 Le combattant ou une unité sait rendre-compte d'une observation ou d'un contact, en général de l'ennemi. 
 
 Deux méthodes principales et complémentaires sont enseignées aux forces armées :
-- la DDRO, mentionnée dans le manuel du groupe d'infanterie de 2014 [1]
-- la NVAPD, mentionnée dans le manuel du groupe d'infanterie de 2020 [2]
+- la DDRO, 
+- la NVAPD. 
 
 ## Direction - Distance - Repère - Objectif (DDRO)
 
@@ -14,7 +14,7 @@ La méthode DDRO :
 Direction - Distance - Repère - Objectif, dans cet ordre, a l'avantage de fournir des informations
 immédiatement utilisable par les combattants **au sein d'une formation**.
 
-Cette méthode est résolument faite pour signaler une observation à ses collègues sur le terrain.
+Cette méthode est résolument faite pour signaler une observation/un objectif aux autres fantassins sur le terrain.
 
 ### Direction
 
@@ -88,14 +88,11 @@ On indique donc la Nature, le Volume et l'Attitude.
 
 ## Nature-Volume-Attitude-Position-Délai (NVAPD)
 
-Le NVAPD est plus approprié pour rendre-compte par la radio, lorsque l'interlocuteur n'est pas nécessairement
-à portée visuelle. 
+Le NVAPD est plus approprié pour rendre-compte par radio, lorsque l'interlocuteur n'est pas nécessairement
+à portée visuelle. Particulièrement utilisée pour rendre-compte de l'observation au chef. 
 
 - Nature : QUI ou QUOI ?
 - Volume : COMBIEN ?
 - Attitude : COMMENT, faisant quoi ?
 - Position : OU ? PAR OU ? 
 - Délai : QUAND 
-
-1. INF 37.001 - Manuel d'emploi du groupe d'infanterie, 2014
-2. PFT INF 3.2.01/7 - Manuel d'emploi du groupe d'infanterie, 2020

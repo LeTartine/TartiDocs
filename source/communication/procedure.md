@@ -4,7 +4,7 @@ La radio est un outil technique, potentiellement capricieux et chaotique. La pro
 une bonne compréhension des messages par les parties prenantes, meme en cas de qualité de communication degradée, 
 ou d'environnement sonore difficile (au combat notamment).
 
-## Minimisation, exactitude, precision, concision canalisation
+## Clareté, concision, canalisation
 
 En tout temps, les participants à une communication radiotéléphonique gardent les communications :
 - Claires : parler distinctement, éviter les termes ambigus, etre précis dans ses communications, 
@@ -12,7 +12,6 @@ En tout temps, les participants à une communication radiotéléphonique gardent
 - Calmes : eviter de crier ou de manifester trop d'émotions dans ses communications. 
 
 Autres principes :
-- Minimales : la communication est reduite au strict necessaire. La communication doit rester vocale en priorite,
 - Canalisation : Si possible, le nombre de participants doit etre minimisé. 
 Router les communications via 1-2 émetteurs prioritaires par unité. 
 

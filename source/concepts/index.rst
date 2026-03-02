@@ -8,4 +8,4 @@ Concepts du combat
    couverture
    manoeuvre
    neutralisation_destruction
-..   organisation
+   organisation
