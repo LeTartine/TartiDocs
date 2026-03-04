@@ -14,5 +14,5 @@ N'importe quel combattant doit maîtriser 12 actes réflexes à la perfection.
    distance
    communiquer
    liaison
-..   armement
-..   equipement
+   armement
+   equipement
