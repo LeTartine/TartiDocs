@@ -1,7 +1,8 @@
 # Garder la liaison à vue
 
 Le fantassin est membre d'une [équipe](../concepts/organisation). Il observe en permanence ses camarades de combat,
-et se positionne relativement à eux afin de limiter les dégâts causés par un engagement ennemi, et d'assurer leur protection. 
+et se positionne relativement à eux afin de limiter les dégâts causés par un engagement ennemi, 
+et d'assurer leur protection. 
 
 À l'arrêt comme en mouvement, le fantassin :
 - Reste à portée visuelle et vocale de ses camarades. Il vérifie régulièrement le statut de ses camarades,
@@ -17,7 +18,7 @@ Le chef d'équipe (CE) répartit ensuite les secteurs d'observation au loin et v
 
 ## A l'arrêt
 
-Le CE répartit les secteurs d'observation, au sein du secteur de responsabilité qui lui est assigné par le chef de groupe (CDG), 
-et en priorité vers les directions dangereuses. 
+Le CE répartit les secteurs d'observation, au sein du secteur de responsabilité qui lui est assigné par le chef de groupe
+(CDG), et en priorité vers les directions dangereuses. 
 
 Voir [3-6](../techniques/360).

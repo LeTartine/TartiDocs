@@ -16,3 +16,4 @@ N'importe quel combattant doit maîtriser 12 actes réflexes à la perfection.
    liaison
    armement
    equipement
+   surete
