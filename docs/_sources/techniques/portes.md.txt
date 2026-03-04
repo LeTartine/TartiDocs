@@ -1,7 +1,7 @@
 # Portes
 
 La porte est, pour une formation, un outil de [couverture](../concepts/couverture.md) permettant de reduire les risques liés
-au franchissement d'une [zone de danger linéaire](../terrain/dangers.md). 
+au franchissement d'une [zone de danger linéaire](../geo/dangers.md). 
 
 Cette couverture peut être fournie pour lui-même, ou pour une autre formation comme une section d'infanterie. 
 

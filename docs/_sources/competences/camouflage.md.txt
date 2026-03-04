@@ -4,7 +4,7 @@ Le camouflage vise à réduire le risque de détection et d'observation d'un él
 Il s'agit d'un acte réflexe du combattant. 
 
 Principes de base du camouflage : 
-Fond, Forme, Ombre, Mouvement, Éclat, Couleur, Bruit, Lumiere, Odeur, Traces
+Fond, Forme, Ombre, Mouvement, Éclat, Couleur, Bruit, Lumiere, Odeur, Traces (FFOMECBLOT).
 
 À ceci, nous ajouterons la Chaleur, qui s'impose comme un risque de détection tres important au 21ᵉ siecle. 
 

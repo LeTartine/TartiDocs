@@ -18,12 +18,12 @@ En **permanence**, le soldat :
 ## Competences individuelles
 
 - **Lire son environnement** : Ou puis-je me [camoufler](competences/camouflage.md) (couleur, lumiere, fond, forme),
-ou puis-je [me proteger](competences/protection.md), par où puis-je [manœuvrer](concepts/manoeuvre) ([terrain](terrain/tactique)). 
+ou puis-je [me proteger](competences/protection.md), par où puis-je [manœuvrer](concepts/manoeuvre) ([terrain](geo/tactique)). 
 Par où le danger peut-il venir (hierarchie des menaces) ?
 - **Lire ses collegues** : Que font mes collegues, que dois-je faire pour les aider/couvrir, 
 comment puis-je complémenter leur action.
 S'ils regardent à droite, je regarde a gauche. S'ils sont occupés (carte, medic, etc), je garde mon arme levée pour les couvrir.
-- **[Savoir eviter le tir fratricide](techniques/fratricide)** : CEVITAL, identification des cibles, gestion du stress,
+- **Savoir eviter le tir fratricide** : CEVITAL, identification des cibles, gestion du stress,
 - **Annoncer** : Les copains ne savent pas lire les pensées. Ne pas hésiter à informer de ce que l'on fait. 
 "Je recharge", "je bouge", "je regarde a droite", "je me soigne", "je suis en appui".
 - **Discipline de tir** : Sauf pour se défendre, je [signale](communication/signaler) toujours les contacts
@@ -33,7 +33,7 @@ et demande des instructions avant de tirer.
 
 - **[Sécurité à 360 (aka 3-6)](techniques/360)** : une direction, une paire d'yeux, un canon, en tout temps. 
 Ce n'est pas parce que l'action est a droite que personne ne doit regarder à gauche.
-- **[Savoir eviter le tir fratricide](techniques/fratricide)** : Reconnaitre les situations dangereuses, savoir desescalader, 
+- **Savoir eviter le tir fratricide** : Reconnaitre les situations dangereuses, savoir desescalader, 
 planifier, implementer et respecter des mesures de controle, 
 - **[Couverture et appui mutuel](concepts/appui)** : Je bouge, tu couvres. Je couvre, tu bouges. 
 Il tire en appui, je manœuvre. Il manœuvre, je tire en appui. 

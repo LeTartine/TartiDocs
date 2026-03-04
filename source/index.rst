@@ -13,7 +13,7 @@ Table des matieres
    concepts/index.rst
    communication/index.rst
    techniques/index.rst
-   terrain/index.rst
+..   geo/index.rst
 ..   roles/index.rst
 
 Pourquoi une doc?

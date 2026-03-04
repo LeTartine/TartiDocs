@@ -5,7 +5,7 @@ Techniques de combat
    :maxdepth: 1
 
    360
-   fratricide
+   securite_tir
    portes
 ..   mouvement_individuel
 ..   reaction_contact

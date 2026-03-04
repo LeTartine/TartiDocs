@@ -33,7 +33,7 @@ Une formation en sous-nombre va tenter de rompre le contact pour survivre et com
 
 ## Utilisation du terrain
 
-La manœuvre prend en compte le [terrain](../terrain/tactique), en particulier :
+La manœuvre prend en compte le [terrain](../geo/tactique), en particulier :
 - a quel point le terrain rend-il la manœuvre difficile,
 - le terrain est-il propice a la [protection](../competences/protection.md) contre les feux ennemis,
 - le terrain est-il propice au [camouflage](../competences/camouflage.md) et à la contre-[observation](../competences/observation.md).
