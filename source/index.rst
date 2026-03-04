@@ -10,10 +10,11 @@ Table des matieres
    :titlesonly:
 
    essentiels
+   competences/index.rst
    concepts/index.rst
    communication/index.rst
    techniques/index.rst
-..   geo/index.rst
+   geo/index.rst
 ..   roles/index.rst
 
 Pourquoi une doc?

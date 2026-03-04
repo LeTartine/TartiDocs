@@ -1,53 +1,26 @@
 # Essentiels
 
-Principes de bases a comprendre, pour tous les PAX en milsim:
+## Compétences individuelles
 
-Chaque soldat d'infanterie dispose de [douze compétences ou "actes réflexes"](competences/index). 
+Chaque combattant en milsim doit savoir mener trois actes élémentaires :
+- Se déplacer,
+- Se poster,
+- Utiliser ses armes. 
 
-Chaque soldat d'infanterie doit savoir mener trois types d'actions principales :
-- Se déplacer (mobilité),
-- Se poster (protection),
-- Utiliser ses armes (puissance de feu). 
+Le tout en assurant en permanence :
+- La collecte du renseignement,
+- La sûreté individuelle et collective. 
 
-En **permanence**, le soldat :
-- Collecte du renseignement,
-- Met en œuvre des mesures de sûreté et de sauvegarde.
-
-= Work in progress =
-
-## Competences individuelles
-
-- **Lire son environnement** : Ou puis-je me [camoufler](competences/camouflage.md) (couleur, lumiere, fond, forme),
-ou puis-je [me proteger](competences/protection.md), par où puis-je [manœuvrer](concepts/manoeuvre) ([terrain](geo/tactique)). 
-Par où le danger peut-il venir (hierarchie des menaces) ?
-- **Lire ses collegues** : Que font mes collegues, que dois-je faire pour les aider/couvrir, 
-comment puis-je complémenter leur action.
-S'ils regardent à droite, je regarde a gauche. S'ils sont occupés (carte, medic, etc), je garde mon arme levée pour les couvrir.
-- **Savoir eviter le tir fratricide** : CEVITAL, identification des cibles, gestion du stress,
-- **Annoncer** : Les copains ne savent pas lire les pensées. Ne pas hésiter à informer de ce que l'on fait. 
-"Je recharge", "je bouge", "je regarde a droite", "je me soigne", "je suis en appui".
-- **Discipline de tir** : Sauf pour se défendre, je [signale](communication/signaler) toujours les contacts
-et demande des instructions avant de tirer.
-
-## Competences collectives
-
-- **[Sécurité à 360 (aka 3-6)](techniques/360)** : une direction, une paire d'yeux, un canon, en tout temps. 
-Ce n'est pas parce que l'action est a droite que personne ne doit regarder à gauche.
-- **Savoir eviter le tir fratricide** : Reconnaitre les situations dangereuses, savoir desescalader, 
-planifier, implementer et respecter des mesures de controle, 
-- **[Couverture et appui mutuel](concepts/appui)** : Je bouge, tu couvres. Je couvre, tu bouges. 
-Il tire en appui, je manœuvre. Il manœuvre, je tire en appui. 
-- **Techniques de communication** :
-  - Base procédure radiophonique (minimum) : "Destinataire ici Emetteur" — Message
-  - Efficacité a la radio : pas de communication superflue, privilégier la voix
-  - [SITREP](communication/sitrep)
-  - [Signaler une observation](communication/signaler) : Signaler un contact en donnant Direction, Description, Repere, Objectif
-- **Techniques de mouvement collectif** :
-  - Tiroir / Perroquet
-  - Porte (demi, complete)
-  - Colonne: ordre de marche, distance
-  - Ligne
-- **Reaction au contact** : Tir saturant dans la direction - mise a l'abri - tir plus précis
-- **Rupture du contact** : Un élément tir pendant qu'un autre élément bouge. Jamais les deux en meme temps
-- **Mener un assaut** : Un element en appui (tir de neutralisation), l'autre manœuvre à l'abri pour se rapprocher, 
-arriver sur le flanc de l'ennemi et le detruire.
+Pour cela, le combattant maîtrise et travaille régulièrement les [douze réflexes](competences/index.rst) suivants :
+- [S'orienter](competences/orientation),
+- [Observer](competences/observation),
+- [Progresser](competences/progression),
+- [Se protéger](competences/protection),
+- [Se camoufler](competences/camouflage),
+- [Apprécier une distance](competences/distance),
+- [Mettre en œuvre son armement](competences/armement),
+- [Communiquer](competences/communiquer),
+- [Rendre-compte](competences/communiquer),
+- [Désigner un objectif](competences/communiquer),
+- [Garder la liaison (visuelle et vocale) avec ses équipiers](competences/liaison),
+- [S'équiper](competences/equipement).
