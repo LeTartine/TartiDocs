@@ -18,6 +18,7 @@ Le fantassin sait également utiliser les dispositifs pyrotechniques standards, 
 défensives, étourdissantes, fumigènes. 
 
 Le fantassin sait également comment travailler autour des armes de ses équipiers, notamment :
-- Respect des lignes de tir alliées, 
+- Respect des lignes de tir alliées (ne pas passer devant l'arme d'un allié), 
+- Respect des priorités de tir (ne pas tirer depuis l'arrière d'un allié),
 - Couverture mutuelle en cas de rechargement ou d'incident de tir,
 - Couverture mutuelle en cas d'utilisation de dispositifs pyrotechniques. 
