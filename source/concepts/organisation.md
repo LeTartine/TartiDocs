@@ -2,6 +2,12 @@
 
 ## Equipe
 
+<div style="text-align: center;">
+
+<img style="max-width: 30%; background-color:white; border:2px solid white;" src="../_static/equipe.svg" alt="Equipe"/>
+
+</div>
+
 Élément de base de l'organisation d'infanterie, également appelé `Fire Team` dans la doctrine US. 
 Composé de deux à cinq membres, en général trois dans l'armée francaise. 
 
@@ -48,6 +54,12 @@ la pièce fusil-mitrailleur est actuellement équipée de [FN MAG 59](https://fr
 
 ## Groupe
 
+<div style="text-align: center;">
+
+<img style="max-width: 30%; background-color:white; border:2px solid white;" src="../_static/groupe.svg" alt="Groupe"/>
+
+</div>
+
 Deux à trois équipes (en général deux dans l'armée francaise, que ce soit pour les groupes de combat ou d'appui). 
 
 Dirigé par un chef de groupe (CDG), composé de sept membres en infanterie légère.
@@ -76,5 +88,11 @@ Deux pièces, un CDG, un pilote et un tireur (mécanisé).
 </div>
 
 ## Section
+
+<div style="text-align: center;">
+
+<img style="max-width: 30%; background-color:white; border:2px solid white;" src="../_static/section.svg" alt="Equipe"/>
+
+</div>
 
 Work in progress

@@ -2,7 +2,8 @@
 
 ## Compétences individuelles
 
-Chaque combattant en milsim doit savoir mener trois actes élémentaires :
+D'après le Manuel d'emploi du groupe d'infanterie[1], 
+chaque combattant en milsim doit savoir mener trois actes élémentaires :
 - Se déplacer,
 - Se poster,
 - Utiliser ses armes. 
@@ -43,4 +44,4 @@ Certains aiment être fantassins, d'autres apprécient organiser le combat.
 Ceux qui souhaitent prendre des responsabilités et devenir chef d'équipe, de groupe ou de section
 doivent d'abord :
 - Comprendre les compétences de base du fantassin,
-- Maîtriser les concepts de base du combat. 
+- Maîtriser les concepts de base du combat.
