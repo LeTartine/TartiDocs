@@ -39,7 +39,7 @@ milieu et des enjeux, notamment :
 
 == En construction ==
 
-Certains aiment être fantassins, d'autres apprécient organiser le combat.
+Le combat est une affaire collective par définition. Qui dit action collective dit leadership. 
 
 Ceux qui souhaitent prendre des responsabilités et devenir chef d'équipe, de groupe ou de section
 doivent d'abord :

@@ -7,7 +7,7 @@ Terrain, Carte & Navigation
    direction
    localisation
    dangers
-..   carte
+   carte
 ..   types
 ..   tactique
 ..   navigation
