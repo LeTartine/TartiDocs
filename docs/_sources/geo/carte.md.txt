@@ -54,54 +54,7 @@ Plus les courbes de niveau sont espacées, plus la pente est douce.
 Les courbes de niveau aident à identifier crêtes, cols, talwegs, vallées, sommets, talus, etc. 
 Autant d'élément de terrain qui ont un intérêt géo-tactique. 
 
-#### Sommet
-
-Un rond fermé concluant des courbes ascendantes indique un sommet. Il est en général également marqué d'un point
-indiquant l'altitude maximale.
-
-<div style="text-align: center">
-<img style="max-width: 60%;" src="../_static/sommet.png" alt="Sommet"/>
-</div>
-
-En tactique, le sommet est une position dominante, permettant l'observation et l'exercice des feux vers le bas,
-mais offrant parfois peu de protection. 
-
-#### Crête
-
-La ligne de crête est une ligne de points hauts d'un relief, séparant deux versants opposés. 
-
-<div style="text-align: center">
-<img style="max-width: 60%;" src="../_static/crete.png" alt="Crête"/>
-</div>
-
-Passer une ligne de crête se dit aussi "décréter". 
-
-Décréter expose immédiatement à la détection par `sky-lining`, c'est-à-dire à se dessiner contre le ciel
-(voir [camouflage](../competences/camouflage)). 
-
-En revanche, la crète peut-être utilisée de façon intelligente, notamment : 
-- Progression via la "[crête militaire](https://en.wikipedia.org/wiki/Military_crest)", c'est-à-dire
-un chemin légèrement en contrebas de la crête elle-même,
-- Protection contre les feux ennemis, en décrétant du côté opposé à l'ennemi,
-- Tir dominant sur l'ennemi, en décrétant juste assez pour tirer sur l'ennemi en contre bas, tout en bénéficiant de
-la protection partielle de la crête, 
-- Défense de contre-pente (ou pente inversée), c'est-à-dire se placer sur la pente opposée à l'ennemi
-ce qui force l'ennemi à franchir la crête et à s'exposer aux tirs depuis le contrebas.
-
-#### Talweg
-
-Un talweg (ou coulière) est l'opposé de la crête. Il s'agit d'une succession de points bas entre deux pentes. 
-
-<div style="text-align: center">
-<img style="max-width: 60%;" src="../_static/talwegs.png" alt="Talwegs"/>
-</div>
-
-*Deux talwegs descendants d'une montagne*
-
-Le talweg protège contre les feux et camoufle. Suivre un talweg permet de progresser sans être vu, et sans être sujet
-aux tirs rasants. 
-
-En revanche, si l'ennemi parvient à prendre une position dominante sur le talweg, la position y devient précaire. 
+[Lire plus](types)
 
 ## Échelle
 
@@ -116,12 +69,11 @@ En général, le quadrillage correspond à une distance associée à l'échelle,
 ## Langage cartographique
 
 Le "langage cartographique", c'est-à-dire la signification des symboles et couleurs, dépend en général de chaque
-type de carte. Cependant, certaines bonnes pratiques sont quasi-universelles :
-- Une zone verte indique en général une zone boisée, le plus souvent une forêt, 
-- Une zone bleue indique une étendue d'eau : lac, mer, océan...
-- Une ligne bleue indique un cours d'eau. Plus il sera épais, plus le cours d'eau sera significatif,
-- Les lignes noires ou marron indiquent souvent des routes et chemins,
-- Les formes noires ou grises indiquent en général des batiments ou zones construites. 
+type de carte. Reportez-vous à sa légende pour plus d'information. 
 
-Une carte de qualité est bien-souvent accompagnée d'une légende. Referez-vous-y. 
+Cependant, certaines bonnes pratiques sont quasi-universelles :
+- Bleu est en lien avec l'hydrographie : lacs, sources, rivières...
+- Vert pour la végétation, certaines cartes faisant même la distinction entre les types de zones 
+(conifères, forte densité d'arbres, buissons...),
+- Noir indique des éléments construits par l'homme : voies de communication, bâtiments, limites administratives...
 

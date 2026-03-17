@@ -3,7 +3,7 @@
   <head><meta charset="utf-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="color-scheme" content="light dark"><meta name="viewport" content="width=device-width, initial-scale=1" />
-<link rel="index" title="Index" href="../genindex.html"><link rel="search" title="Recherche" href="../search.html">
+<link rel="index" title="Index" href="../genindex.html"><link rel="search" title="Recherche" href="../search.html"><link rel="prev" title="Carte" href="carte.html">
 
     <!-- Generated with Sphinx 9.1.0 and Furo 2025.12.19 -->
         <title>Types de terrain - Documentation TartiDoc 0.1.0</title>
@@ -172,7 +172,7 @@
           <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
         </button>
       </div>
-      <label class="toc-overlay-icon toc-header-icon no-toc" for="__toc">
+      <label class="toc-overlay-icon toc-header-icon" for="__toc">
         <span class="icon"><svg><use href="#svg-toc"></use></svg></span>
       </label>
     </div>
@@ -190,7 +190,7 @@
   <input type="hidden" name="area" value="default">
 </form>
 <div id="searchbox"></div><div class="sidebar-scroll"><div class="sidebar-tree">
-  <ul>
+  <ul class="current">
 <li class="toctree-l1"><a class="reference internal" href="../essentiels.html">Essentiels</a></li>
 <li class="toctree-l1 has-children"><a class="reference internal" href="../competences/index.html">Actes réflexes</a><input aria-label="Toggle navigation of Actes réflexes" class="toctree-checkbox" id="toctree-checkbox-1" name="toctree-checkbox-1" role="switch" type="checkbox"/><label for="toctree-checkbox-1"><span class="icon"><svg><use href="#svg-arrow-right"></use></svg></span></label><ul>
 <li class="toctree-l2"><a class="reference internal" href="../competences/orientation.html">S’orienter</a></li>
@@ -225,10 +225,12 @@
 <li class="toctree-l2"><a class="reference internal" href="../techniques/portes.html">Portes</a></li>
 </ul>
 </li>
-<li class="toctree-l1 has-children"><a class="reference internal" href="index.html">Terrain, Carte &amp; Navigation</a><input aria-label="Toggle navigation of Terrain, Carte &amp; Navigation" class="toctree-checkbox" id="toctree-checkbox-5" name="toctree-checkbox-5" role="switch" type="checkbox"/><label for="toctree-checkbox-5"><span class="icon"><svg><use href="#svg-arrow-right"></use></svg></span></label><ul>
+<li class="toctree-l1 current has-children"><a class="reference internal" href="index.html">Terrain, Carte &amp; Navigation</a><input aria-label="Toggle navigation of Terrain, Carte &amp; Navigation" checked="" class="toctree-checkbox" id="toctree-checkbox-5" name="toctree-checkbox-5" role="switch" type="checkbox"/><label for="toctree-checkbox-5"><span class="icon"><svg><use href="#svg-arrow-right"></use></svg></span></label><ul class="current">
 <li class="toctree-l2"><a class="reference internal" href="direction.html">Déterminer une direction et naviguer</a></li>
 <li class="toctree-l2"><a class="reference internal" href="localisation.html">Déterminer sa position</a></li>
 <li class="toctree-l2"><a class="reference internal" href="dangers.html">Terrains Dangereux</a></li>
+<li class="toctree-l2"><a class="reference internal" href="carte.html">Carte</a></li>
+<li class="toctree-l2 current current-page"><a class="current reference internal" href="#">Types de terrain</a></li>
 </ul>
 </li>
 </ul>
@@ -264,18 +266,53 @@
               <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
             </button>
           </div>
-          <label class="toc-overlay-icon toc-content-icon no-toc" for="__toc">
+          <label class="toc-overlay-icon toc-content-icon" for="__toc">
             <span class="icon"><svg><use href="#svg-toc"></use></svg></span>
           </label>
         </div>
         <article role="main" id="furo-main-content">
           <section id="types-de-terrain">
 <h1>Types de terrain<a class="headerlink" href="#types-de-terrain" title="Lien vers cette rubrique">¶</a></h1>
-<p>Work in Progress</p>
-<p>Thalweg et Crete
-Points dominants
-Pente et contre-pente
-Cours d’eau</p>
+<section id="sommet">
+<h2>Sommet<a class="headerlink" href="#sommet" title="Lien vers cette rubrique">¶</a></h2>
+<p>Un rond fermé concluant des courbes ascendantes indique un sommet. Il est en général également marqué d’un point
+indiquant l’altitude maximale.</p>
+<div style="text-align: center">
+<img style="max-width: 60%;" src="../_static/sommet.png" alt="Sommet"/>
+</div>
+<p>En tactique, le sommet est une position dominante, permettant l’observation et l’exercice des feux vers le bas.</p>
+<p>En revanche, un point dominant est en général exposé. L’observation vers le bas expose au <code class="docutils literal notranslate"><span class="pre">sky-lining</span></code>,
+c’est-à-dire à se dessiner contre le ciel (voir <a class="reference internal" href="../competences/camouflage.html"><span class="doc std std-doc">camouflage</span></a>).</p>
+</section>
+<section id="crete">
+<h2>Crête<a class="headerlink" href="#crete" title="Lien vers cette rubrique">¶</a></h2>
+<p>La ligne de crête est une ligne de points hauts d’un relief, séparant deux versants opposés.</p>
+<div style="text-align: center">
+<img style="max-width: 60%;" src="../_static/crete.png" alt="Crête"/>
+</div>
+<p>Passer une ligne de crête se dit aussi « décréter ». Décréter expose au <code class="docutils literal notranslate"><span class="pre">sky-lining</span></code>.</p>
+<p>En revanche, la crète peut-être utilisée de façon intelligente, notamment :</p>
+<ul class="simple">
+<li><p>Progression via la « <a class="reference external" href="https://en.wikipedia.org/wiki/Military_crest">crête militaire</a> », c’est-à-dire
+un chemin légèrement en contrebas de la crête elle-même,</p></li>
+<li><p>Protection contre les feux ennemis, en décrétant du côté opposé à l’ennemi,</p></li>
+<li><p>Tir dominant sur l’ennemi, en décrétant juste assez pour tirer sur l’ennemi en contre bas, tout en bénéficiant de
+la protection partielle de la crête,</p></li>
+<li><p>Défense de contre-pente (ou pente inversée), c’est-à-dire se placer sur la pente opposée à l’ennemi
+ce qui force l’ennemi à franchir la crête et à s’exposer aux tirs depuis le contrebas.</p></li>
+</ul>
+<section id="talweg">
+<h3>Talweg<a class="headerlink" href="#talweg" title="Lien vers cette rubrique">¶</a></h3>
+<p>Un talweg (ou coulière) est l’opposé de la crête. Il s’agit d’une succession de points bas entre deux pentes.</p>
+<div style="text-align: center">
+<img style="max-width: 60%;" src="../_static/talwegs.png" alt="Talwegs"/>
+</div>
+<p><em>Deux talwegs descendants d’une montagne</em></p>
+<p>Le talweg protège contre les feux et camoufle. Suivre un talweg permet de progresser sans être vu, et sans être sujet
+aux tirs rasants.</p>
+<p>En revanche, si l’ennemi parvient à prendre une position dominante sur le talweg, la position y devient précaire.</p>
+</section>
+</section>
 </section>
 
         </article>
@@ -284,7 +321,17 @@ Cours d’eau</p>
         
         <div class="related-pages">
           
-          
+          <a class="prev-page" href="carte.html">
+              <svg class="furo-related-icon"><use href="#svg-arrow-right"></use></svg>
+              <div class="page-info">
+                <div class="context">
+                  <span>Previous</span>
+                </div>
+                
+                <div class="title">Carte</div>
+                
+              </div>
+            </a>
         </div>
         <div class="bottom-of-page">
           <div class="left-details">
@@ -303,8 +350,31 @@ Cours d’eau</p>
         
       </footer>
     </div>
-    <aside class="toc-drawer no-toc">
+    <aside class="toc-drawer">
       
+      
+      <div class="toc-sticky toc-scroll">
+        <div class="toc-title-container">
+          <span class="toc-title">
+            On this page
+          </span>
+        </div>
+        <div class="toc-tree-container">
+          <div class="toc-tree">
+            <ul>
+<li><a class="reference internal" href="#">Types de terrain</a><ul>
+<li><a class="reference internal" href="#sommet">Sommet</a></li>
+<li><a class="reference internal" href="#crete">Crête</a><ul>
+<li><a class="reference internal" href="#talweg">Talweg</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
+          </div>
+        </div>
+      </div>
       
       
     </aside>

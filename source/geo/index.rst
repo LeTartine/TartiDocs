@@ -8,6 +8,6 @@ Terrain, Carte & Navigation
    localisation
    dangers
    carte
-..   types
+   types
 ..   tactique
 ..   navigation

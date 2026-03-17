@@ -3,7 +3,7 @@
   <head><meta charset="utf-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="color-scheme" content="light dark"><meta name="viewport" content="width=device-width, initial-scale=1" />
-<link rel="index" title="Index" href="../genindex.html"><link rel="search" title="Recherche" href="../search.html">
+<link rel="index" title="Index" href="../genindex.html"><link rel="search" title="Recherche" href="../search.html"><link rel="next" title="Types de terrain" href="types.html"><link rel="prev" title="Terrains Dangereux" href="dangers.html">
 
     <!-- Generated with Sphinx 9.1.0 and Furo 2025.12.19 -->
         <title>Carte - Documentation TartiDoc 0.1.0</title>
@@ -190,7 +190,7 @@
   <input type="hidden" name="area" value="default">
 </form>
 <div id="searchbox"></div><div class="sidebar-scroll"><div class="sidebar-tree">
-  <ul>
+  <ul class="current">
 <li class="toctree-l1"><a class="reference internal" href="../essentiels.html">Essentiels</a></li>
 <li class="toctree-l1 has-children"><a class="reference internal" href="../competences/index.html">Actes réflexes</a><input aria-label="Toggle navigation of Actes réflexes" class="toctree-checkbox" id="toctree-checkbox-1" name="toctree-checkbox-1" role="switch" type="checkbox"/><label for="toctree-checkbox-1"><span class="icon"><svg><use href="#svg-arrow-right"></use></svg></span></label><ul>
 <li class="toctree-l2"><a class="reference internal" href="../competences/orientation.html">S’orienter</a></li>
@@ -225,10 +225,12 @@
 <li class="toctree-l2"><a class="reference internal" href="../techniques/portes.html">Portes</a></li>
 </ul>
 </li>
-<li class="toctree-l1 has-children"><a class="reference internal" href="index.html">Terrain, Carte &amp; Navigation</a><input aria-label="Toggle navigation of Terrain, Carte &amp; Navigation" class="toctree-checkbox" id="toctree-checkbox-5" name="toctree-checkbox-5" role="switch" type="checkbox"/><label for="toctree-checkbox-5"><span class="icon"><svg><use href="#svg-arrow-right"></use></svg></span></label><ul>
+<li class="toctree-l1 current has-children"><a class="reference internal" href="index.html">Terrain, Carte &amp; Navigation</a><input aria-label="Toggle navigation of Terrain, Carte &amp; Navigation" checked="" class="toctree-checkbox" id="toctree-checkbox-5" name="toctree-checkbox-5" role="switch" type="checkbox"/><label for="toctree-checkbox-5"><span class="icon"><svg><use href="#svg-arrow-right"></use></svg></span></label><ul class="current">
 <li class="toctree-l2"><a class="reference internal" href="direction.html">Déterminer une direction et naviguer</a></li>
 <li class="toctree-l2"><a class="reference internal" href="localisation.html">Déterminer sa position</a></li>
 <li class="toctree-l2"><a class="reference internal" href="dangers.html">Terrains Dangereux</a></li>
+<li class="toctree-l2 current current-page"><a class="current reference internal" href="#">Carte</a></li>
+<li class="toctree-l2"><a class="reference internal" href="types.html">Types de terrain</a></li>
 </ul>
 </li>
 </ul>
@@ -311,47 +313,7 @@ Une carte en 1:10000 aura des courbes beaucoup plus précises qu’une carte en 
 Plus les courbes de niveau sont espacées, plus la pente est douce.</p>
 <p>Les courbes de niveau aident à identifier crêtes, cols, talwegs, vallées, sommets, talus, etc.
 Autant d’élément de terrain qui ont un intérêt géo-tactique.</p>
-<section id="sommet">
-<h4>Sommet<a class="headerlink" href="#sommet" title="Lien vers cette rubrique">¶</a></h4>
-<p>Un rond fermé concluant des courbes ascendantes indique un sommet. Il est en général également marqué d’un point
-indiquant l’altitude maximale.</p>
-<div style="text-align: center">
-<img style="max-width: 60%;" src="../_static/sommet.png" alt="Sommet"/>
-</div>
-<p>En tactique, le sommet est une position dominante, permettant l’observation et l’exercice des feux vers le bas,
-mais offrant parfois peu de protection.</p>
-</section>
-<section id="crete">
-<h4>Crête<a class="headerlink" href="#crete" title="Lien vers cette rubrique">¶</a></h4>
-<p>La ligne de crête est une ligne de points hauts d’un relief, séparant deux versants opposés.</p>
-<div style="text-align: center">
-<img style="max-width: 60%;" src="../_static/crete.png" alt="Crête"/>
-</div>
-<p>Passer une ligne de crête se dit aussi « décréter ».</p>
-<p>Décréter expose immédiatement à la détection par <code class="docutils literal notranslate"><span class="pre">sky-lining</span></code>, c’est-à-dire à se dessiner contre le ciel
-(voir <a class="reference internal" href="../competences/camouflage.html"><span class="doc std std-doc">camouflage</span></a>).</p>
-<p>En revanche, la crète peut-être utilisée de façon intelligente, notamment :</p>
-<ul class="simple">
-<li><p>Progression via la « <a class="reference external" href="https://en.wikipedia.org/wiki/Military_crest">crête militaire</a> », c’est-à-dire
-un chemin légèrement en contrebas de la crête elle-même,</p></li>
-<li><p>Protection contre les feux ennemis, en décrétant du côté opposé à l’ennemi,</p></li>
-<li><p>Tir dominant sur l’ennemi, en décrétant juste assez pour tirer sur l’ennemi en contre bas, tout en bénéficiant de
-la protection partielle de la crête,</p></li>
-<li><p>Défense de contre-pente (ou pente inversée), c’est-à-dire se placer sur la pente opposée à l’ennemi
-ce qui force l’ennemi à franchir la crête et à s’exposer aux tirs depuis le contrebas.</p></li>
-</ul>
-</section>
-<section id="talweg">
-<h4>Talweg<a class="headerlink" href="#talweg" title="Lien vers cette rubrique">¶</a></h4>
-<p>Un talweg (ou coulière) est l’opposé de la crête. Il s’agit d’une succession de points bas entre deux pentes.</p>
-<div style="text-align: center">
-<img style="max-width: 60%;" src="../_static/talwegs.png" alt="Talwegs"/>
-</div>
-<p><em>Deux talwegs descendants d’une montagne</em></p>
-<p>Le talweg protège contre les feux et camoufle. Suivre un talweg permet de progresser sans être vu, et sans être sujet
-aux tirs rasants.</p>
-<p>En revanche, si l’ennemi parvient à prendre une position dominante sur le talweg, la position y devient précaire.</p>
-</section>
+<p><a class="reference internal" href="types.html"><span class="doc std std-doc">Lire plus</span></a></p>
 </section>
 </section>
 <section id="echelle">
@@ -365,15 +327,14 @@ aux tirs rasants.</p>
 <section id="langage-cartographique">
 <h2>Langage cartographique<a class="headerlink" href="#langage-cartographique" title="Lien vers cette rubrique">¶</a></h2>
 <p>Le « langage cartographique », c’est-à-dire la signification des symboles et couleurs, dépend en général de chaque
-type de carte. Cependant, certaines bonnes pratiques sont quasi-universelles :</p>
+type de carte. Reportez-vous à sa légende pour plus d’information.</p>
+<p>Cependant, certaines bonnes pratiques sont quasi-universelles :</p>
 <ul class="simple">
-<li><p>Une zone verte indique en général une zone boisée, le plus souvent une forêt,</p></li>
-<li><p>Une zone bleue indique une étendue d’eau : lac, mer, océan…</p></li>
-<li><p>Une ligne bleue indique un cours d’eau. Plus il sera épais, plus le cours d’eau sera significatif,</p></li>
-<li><p>Les lignes noires ou marron indiquent souvent des routes et chemins,</p></li>
-<li><p>Les formes noires ou grises indiquent en général des batiments ou zones construites.</p></li>
+<li><p>Bleu est en lien avec l’hydrographie : lacs, sources, rivières…</p></li>
+<li><p>Vert pour la végétation, certaines cartes faisant même la distinction entre les types de zones
+(conifères, forte densité d’arbres, buissons…),</p></li>
+<li><p>Noir indique des éléments construits par l’homme : voies de communication, bâtiments, limites administratives…</p></li>
 </ul>
-<p>Une carte de qualité est bien-souvent accompagnée d’une légende. Referez-vous-y.</p>
 </section>
 </section>
 
@@ -382,8 +343,26 @@ type de carte. Cependant, certaines bonnes pratiques sont quasi-universelles :</
       <footer>
         
         <div class="related-pages">
-          
-          
+          <a class="next-page" href="types.html">
+              <div class="page-info">
+                <div class="context">
+                  <span>Next</span>
+                </div>
+                <div class="title">Types de terrain</div>
+              </div>
+              <svg class="furo-related-icon"><use href="#svg-arrow-right"></use></svg>
+            </a>
+          <a class="prev-page" href="dangers.html">
+              <svg class="furo-related-icon"><use href="#svg-arrow-right"></use></svg>
+              <div class="page-info">
+                <div class="context">
+                  <span>Previous</span>
+                </div>
+                
+                <div class="title">Terrains Dangereux</div>
+                
+              </div>
+            </a>
         </div>
         <div class="bottom-of-page">
           <div class="left-details">
@@ -417,12 +396,7 @@ type de carte. Cependant, certaines bonnes pratiques sont quasi-universelles :</
 <li><a class="reference internal" href="#">Carte</a><ul>
 <li><a class="reference internal" href="#quadrillage">Quadrillage</a></li>
 <li><a class="reference internal" href="#courbes-de-niveau">Courbes de niveau</a><ul>
-<li><a class="reference internal" href="#interpretation">Interprétation</a><ul>
-<li><a class="reference internal" href="#sommet">Sommet</a></li>
-<li><a class="reference internal" href="#crete">Crête</a></li>
-<li><a class="reference internal" href="#talweg">Talweg</a></li>
-</ul>
-</li>
+<li><a class="reference internal" href="#interpretation">Interprétation</a></li>
 </ul>
 </li>
 <li><a class="reference internal" href="#echelle">Échelle</a></li>
