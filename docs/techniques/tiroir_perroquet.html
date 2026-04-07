@@ -172,7 +172,7 @@
           <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
         </button>
       </div>
-      <label class="toc-overlay-icon toc-header-icon no-toc" for="__toc">
+      <label class="toc-overlay-icon toc-header-icon" for="__toc">
         <span class="icon"><svg><use href="#svg-toc"></use></svg></span>
       </label>
     </div>
@@ -229,6 +229,8 @@
 <li class="toctree-l2"><a class="reference internal" href="../geo/direction.html">Déterminer une direction et naviguer</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../geo/localisation.html">Déterminer sa position</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../geo/dangers.html">Terrains Dangereux</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../geo/carte.html">Carte</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../geo/types.html">Types de terrain</a></li>
 </ul>
 </li>
 </ul>
@@ -264,14 +266,62 @@
               <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
             </button>
           </div>
-          <label class="toc-overlay-icon toc-content-icon no-toc" for="__toc">
+          <label class="toc-overlay-icon toc-content-icon" for="__toc">
             <span class="icon"><svg><use href="#svg-toc"></use></svg></span>
           </label>
         </div>
         <article role="main" id="furo-main-content">
           <section id="tiroir-et-perroquet">
 <h1>Tiroir et perroquet<a class="headerlink" href="#tiroir-et-perroquet" title="Lien vers cette rubrique">¶</a></h1>
-<p>Work In Progress</p>
+<p>Le tiroir et le perroquet sont deux techniques de couverture et d’appui mutuel au sein d’une formation.</p>
+<p>Le tiroir et le perroquet résultent d’une limitation de l’infanterie : le mouvement réduit (ou supprime)
+la capacité de l’unité à s’auto-protéger, ou à porter appui à ses alliés.</p>
+<p>La formation se divise donc en deux unités ou plus. Lorsque l’une progresse, l’autre couvre ou appuie (et vis-versa).</p>
+<p>Celles-ci peuvent être appliquées par n’importe quelle unité au combat, de l’équipe à la division (voir plus haut).</p>
+<p>En anglais, la technique du tiroir s’appelle <em>bounding overwatch</em>.</p>
+<section id="quand-l-utiliser">
+<h2>Quand l’utiliser<a class="headerlink" href="#quand-l-utiliser" title="Lien vers cette rubrique">¶</a></h2>
+<ul class="simple">
+<li><p>Lorsque l’unité fait face à une zone de danger (par exemple clairière) qu’elle ne peut pas contourner,</p></li>
+<li><p>Lorsque la position de l’ennemi est inconnue,</p></li>
+<li><p>Dans le cas d’une rupture du contact (le mouvement est alors retrograde ou latéral - <em>Australian peel</em>),</p></li>
+<li><p>Lorsque l’unité en a le temps.</p></li>
+</ul>
+</section>
+<section id="regles-d-or">
+<h2>Règles d’or<a class="headerlink" href="#regles-d-or" title="Lien vers cette rubrique">¶</a></h2>
+<ul class="simple">
+<li><p>Les éléments communiquent tout changement de statut, c’est-à-dire « EN MOUVEMENT » ou « EN PLACE », en général par radio,</p></li>
+<li><p>L’élément qui s’apprête à bouger attend impérativement que l’élément d’appui s’annonce « EN PLACE »,</p></li>
+<li><p>L’élément d’appui ne s’annonce <strong>pas</strong> en place avant que toutes les armes soient mises en position de tir,</p></li>
+<li><p>L’élément en mouvement doit rester dans le champ visuel de l’élément en appui.
+Les bonds doivent donc être suffisamment courts pour ne pas perdre l’appui/la couverture,</p></li>
+<li><p>Les bonds doivent être dimensionnés en fonction de l’endurance des soldats.
+Le bond se faisant en courant, une trop grande distance à couvrir risque de réduire la mobilité,
+puis la capacité à fournir un appui.</p></li>
+</ul>
+</section>
+<section id="tiroir">
+<h2>Tiroir<a class="headerlink" href="#tiroir" title="Lien vers cette rubrique">¶</a></h2>
+<p>Appelé « successive bounds » en anglais. Plus facile à contrôler et à mettre en place, mais plus lent.</p>
+<ul class="simple">
+<li><p>L’équipe 1 progresse sous l’appui / la couverture de l’équipe 2,</p></li>
+<li><p>L’équipe 1 prend une position d’appui, met en place son dispositif et s’annonce « EN PLACE »,</p></li>
+<li><p>L’équipe 2 s’annonce « EN MOUVEMENT » et rejoint la position de l’équipe 1, ou une position à sa hauteur,</p></li>
+<li><p>L’équipe 2 met en place son dispositif et s’annonce « EN PLACE »,</p></li>
+<li><p>l’équipe 1 s’annonce « EN MOUVEMENT ». Le dispositif est répété autant de fois que nécessaire.</p></li>
+</ul>
+<div style="text-align: center">
+<img style="max-width: 90%;" src="../_static/tiroir.png" alt="Progression en tiroir"/>
+</div>
+</section>
+<section id="perroquet">
+<h2>Perroquet<a class="headerlink" href="#perroquet" title="Lien vers cette rubrique">¶</a></h2>
+<p>Appelé « alternate bounds » en anglais. Progression plus rapide, mais plus difficile à contrôler.</p>
+<p>Identique au tiroir, mais dans ce dispositif, l’équipe 2 dépasse la position de l’équipe 1 pour se positioner plus loin.</p>
+<div style="text-align: center">
+<img style="max-width: 90%;" src="../_static/perroquet.png" alt="Progression en perroquet"/>
+</div></section>
 </section>
 
         </article>
@@ -299,8 +349,30 @@
         
       </footer>
     </div>
-    <aside class="toc-drawer no-toc">
+    <aside class="toc-drawer">
       
+      
+      <div class="toc-sticky toc-scroll">
+        <div class="toc-title-container">
+          <span class="toc-title">
+            On this page
+          </span>
+        </div>
+        <div class="toc-tree-container">
+          <div class="toc-tree">
+            <ul>
+<li><a class="reference internal" href="#">Tiroir et perroquet</a><ul>
+<li><a class="reference internal" href="#quand-l-utiliser">Quand l’utiliser</a></li>
+<li><a class="reference internal" href="#regles-d-or">Règles d’or</a></li>
+<li><a class="reference internal" href="#tiroir">Tiroir</a></li>
+<li><a class="reference internal" href="#perroquet">Perroquet</a></li>
+</ul>
+</li>
+</ul>
+
+          </div>
+        </div>
+      </div>
       
       
     </aside>
