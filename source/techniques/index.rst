@@ -7,8 +7,7 @@ Techniques de combat
    360
    securite_tir
    portes
-..   mouvement_individuel
+   tiroir_perroquet
 ..   reaction_contact
 ..   assaut
 ..   formations
-..   tiroir_perroquet

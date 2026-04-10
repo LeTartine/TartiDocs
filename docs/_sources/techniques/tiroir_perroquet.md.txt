@@ -1,4 +1,4 @@
-# Tiroir et perroquet
+# Tiroir et perroquet (Bounding)
 
 Le tiroir et le perroquet sont deux techniques de couverture et d'appui mutuel au sein d'une formation. 
 
