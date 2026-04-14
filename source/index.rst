@@ -10,6 +10,7 @@ Table des matieres
    :titlesonly:
 
    essentiels
+   glossaire
    competences/index.rst
    concepts/index.rst
    communication/index.rst

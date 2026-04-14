@@ -2,7 +2,7 @@
 
 "Appuyer : apporter une aide à une autre unité, spontanément ou sur ordre, par le mouvement ou par le feu"[1]
 
-L'appui differe de la [couverture](couverture.md), en cela que la couverture vise à se preparer à repondre à une
+L'appui diffère de la [couverture](couverture.md), en cela que la couverture vise à se preparer à repondre à une
 action de l'ennemi, là où l'appui est une assistance active fournie à la manœuvre d'une unité amie. 
 
 ## Concept

@@ -6,7 +6,7 @@ La destruction est l'un des gestes naturels au combat : "je vois l'ennemi, je l'
 Au contraire, la neutralisation est une technique avancée, qui n'a pas pour vocation principale de détruire l'ennemi, 
 mais utilise la psychologie humaine pour paralyser la formation ennemie.
 
-## Detruire
+## Détruire
 
 "Mettre définitivement hors d'usage ou hors de combat, selon qu'il s'agit de matériels ou d'une formation"[1]
 
